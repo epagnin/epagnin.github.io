@@ -3,7 +3,7 @@ You can use the [editor on GitHub](https://github.com/epagnin/epagnin.github.io/
 
 {% for menu-item in site.data.menus.sidebar %}
 <ul>
-   <li>{{ menu-item.title}}</li>
+   <li>{% for link in site.data.menus.header %}</li>
 </ul>
 {% endfor %}
 
