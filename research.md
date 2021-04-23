@@ -1,3 +1,6 @@
-## My Research Philosophy
+---
+layout: page
+title: research
+---
 
-## Recent Publications
+Text for your page goes here.
