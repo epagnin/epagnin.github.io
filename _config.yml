@@ -1,0 +1,26 @@
+ # Site settings
+title: Elena Pagnin
+email: elena.pagnin@eit.lth.se
+description: > # this means to ignore newlines until "baseurl:"
+  Elena Pagnin Assistant Professor in Cryptography @ CRYPSY lab (LTH)
+url: "" # the base hostname & protocol for your site
+baseurl: "" #"http://www.cse.chalmers.se/~elenap" # the subpath of your site, e.g. /blog
+#twitter_username: jekyllrb
+github_username:  epagnin
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: publications/:year/:title
+job.title: "Assistant Professor"
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
+
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
