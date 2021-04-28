@@ -17,7 +17,7 @@ In particular, I am actively working on:
 *multi-key / homomorphic* cryptosystems, 
 data *authentication*, 
 secure & compact digital *storage solutions*, 
-*verifiable computation*, and  
+*verifiable computation*, and 
 private *location proximity testing*. 
 Previously, I also worked on the Signal protocol, Biometric Authentication and Distance-Bounding Protocols.
 
