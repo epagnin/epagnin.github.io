@@ -6,6 +6,13 @@ bundle exec jekyll build
 
 cp -r "$SOURCE/_site/"* "$DESTINATION/"
 
+cd "$DESTINATION/"
+
+git add *
+
+git commit -m "updates"
+
+git push origin master
 
 #USERNAME=elenap
 #RHOST=git@github.com:
