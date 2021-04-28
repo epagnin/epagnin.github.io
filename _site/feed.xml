@@ -4,10 +4,10 @@
     <title>Elena Pagnin</title>
     <description>Elena Pagnin Assistant Professor in Cryptography @ CRYPSY lab (LTH)
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Apr 2021 13:00:26 +0200</pubDate>
-    <lastBuildDate>Wed, 28 Apr 2021 13:00:26 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Apr 2021 13:14:09 +0200</pubDate>
+    <lastBuildDate>Wed, 28 Apr 2021 13:14:09 +0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
@@ -23,8 +23,8 @@ There are a few exceptions: some journals, local conferences without proceedings
 
 </description>
         <pubDate>Tue, 27 Apr 2021 12:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2021/phd-Q&A</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2021/phd-Q&A</guid>
+        <link>/publications/2021/phd-Q&A</link>
+        <guid isPermaLink="true">/publications/2021/phd-Q&A</guid>
         
         
         <category>phds</category>
@@ -40,8 +40,8 @@ There are a few exceptions: some journals, local conferences without proceedings
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 27 Apr 2021 12:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2021/latex</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2021/latex</guid>
+        <link>/publications/2021/latex</link>
+        <guid isPermaLink="true">/publications/2021/latex</guid>
         
         
         <category>tricks</category>
@@ -70,8 +70,8 @@ Find the ones that works best for you!&lt;/p&gt;
 &lt;p&gt;You are more than welcome to control the git report from the command line ;-) but, should you at some point want to use a GUI, &lt;a href=&quot;https://www.sourcetreeapp.com&quot;&gt;SourceTree&lt;/a&gt; is a great one (for mac and windows)&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Apr 2021 12:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2021/git</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2021/git</guid>
+        <link>/publications/2021/git</link>
+        <guid isPermaLink="true">/publications/2021/git</guid>
         
         
         <category>phds</category>
@@ -92,8 +92,8 @@ In IEEE International Conference on Communications
 Compression, Privacy, Deduplication&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Apr 2021 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2021/yggrdasil</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2021/yggrdasil</guid>
+        <link>/publications/2021/yggrdasil</link>
+        <guid isPermaLink="true">/publications/2021/yggrdasil</guid>
         
         
         <category>conference</category>
@@ -114,8 +114,8 @@ the 26th European Symposium on Research in Computer Security (ESORICS 2020).
 Secure proximity testing, privacy-preserving location based services, MPC&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Sep 2020 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2020/olic</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2020/olic</guid>
+        <link>/publications/2020/olic</link>
+        <guid isPermaLink="true">/publications/2020/olic</guid>
         
         
         <category>conference</category>
@@ -136,8 +136,8 @@ In Conference on Security and Cryptography for Networks (SCN), Amalfi, Italy 202
 Multi-Key Revealing Encryption, Secure Storage, Generalized Data Deduplication.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Sep 2020 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2020/mkre</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2020/mkre</guid>
+        <link>/publications/2020/mkre</link>
+        <guid isPermaLink="true">/publications/2020/mkre</guid>
         
         
         <category>conference</category>
@@ -158,8 +158,8 @@ Proceedings on Privacy Enhancing Technologies (PETS 2019).
 Privacy-preserving ride sharing, Location privacy, Private set intersection.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Sep 2020 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2020/toppool</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2020/toppool</guid>
+        <link>/publications/2020/toppool</link>
+        <guid isPermaLink="true">/publications/2020/toppool</guid>
         
         
         <category>journal</category>
@@ -179,8 +179,8 @@ Sixth International Conference on Cryptology and Information Security in Latin A
 Multi-key homomorphic signatures, cryptographic pairings, efficient software implementation.&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Aug 2019 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2019/the-simplest</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2019/the-simplest</guid>
+        <link>/publications/2019/the-simplest</link>
+        <guid isPermaLink="true">/publications/2019/the-simplest</guid>
         
         
         <category>conference</category>
@@ -203,8 +203,8 @@ We prove the security of SAID not only in the Authenticated Key Exchange (AKE) m
 Signal Protocol, Authenticated Ratchet, identity-based&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Jun 2019 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2019/said</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2019/said</guid>
+        <link>/publications/2019/said</link>
+        <guid isPermaLink="true">/publications/2019/said</guid>
         
         
         <category>conference</category>
@@ -240,8 +240,8 @@ being less expressive and only secretly verifiable, the latter construction pres
 properties.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 16:00:00 +0200</pubDate>
-        <link>http://localhost:4000/publications/2019/multi-key-HA-j</link>
-        <guid isPermaLink="true">http://localhost:4000/publications/2019/multi-key-HA-j</guid>
+        <link>/publications/2019/multi-key-HA-j</link>
+        <guid isPermaLink="true">/publications/2019/multi-key-HA-j</guid>
         
         
         <category>journal</category>

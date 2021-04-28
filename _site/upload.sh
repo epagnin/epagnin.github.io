@@ -1,12 +1,20 @@
 #!/usr/bin/env bash
-USERNAME=elenap
-RHOST=$USERNAME@remote12.chalmers.se
-RPATH=/chalmers/users/elenap/www/www.cse.chalmers.se/
+SOURCE="/Users/makoto/BlueCloud/mywebsite"
+DESTINATION="/Users/makoto/Papers/epagnin"
 
 bundle exec jekyll build
 
-rsync -priv --delete --checksum $* \
-  _site/ \
-  ${RHOST}:${RPATH}
+cp -r "$SOURCE/_site/"* "$DESTINATION/"
+
+
+#USERNAME=elenap
+#RHOST=git@github.com:
+#RPATH=epagnin/epagnin.github.io.git/
+
+#bundle exec jekyll build
+
+#rsync -priv --delete --checksum $* \
+#  _site/ \
+#  ${RHOST}:${RPATH}
 
 # rm -r _site

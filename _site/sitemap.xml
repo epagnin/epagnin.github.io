@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2021/phd-Q&A</loc>
+      <loc>/publications/2021/phd-Q&A</loc>
       
         <lastmod>2021-04-27T12:00:00+02:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2021/latex</loc>
+      <loc>/publications/2021/latex</loc>
       
         <lastmod>2021-04-27T12:00:00+02:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2021/git</loc>
+      <loc>/publications/2021/git</loc>
       
         <lastmod>2021-04-27T12:00:00+02:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2021/yggrdasil</loc>
+      <loc>/publications/2021/yggrdasil</loc>
       
         <lastmod>2021-04-15T16:00:00+02:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2020/olic</loc>
+      <loc>/publications/2020/olic</loc>
       
         <lastmod>2020-09-16T16:00:00+02:00</lastmod>
       
@@ -78,7 +78,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2020/mkre</loc>
+      <loc>/publications/2020/mkre</loc>
       
         <lastmod>2020-09-15T16:00:00+02:00</lastmod>
       
@@ -93,7 +93,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2020/toppool</loc>
+      <loc>/publications/2020/toppool</loc>
       
         <lastmod>2020-09-15T16:00:00+02:00</lastmod>
       
@@ -108,7 +108,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2019/the-simplest</loc>
+      <loc>/publications/2019/the-simplest</loc>
       
         <lastmod>2019-08-04T16:00:00+02:00</lastmod>
       
@@ -123,7 +123,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2019/said</loc>
+      <loc>/publications/2019/said</loc>
       
         <lastmod>2019-06-07T16:00:00+02:00</lastmod>
       
@@ -138,7 +138,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2019/multi-key-HA-j</loc>
+      <loc>/publications/2019/multi-key-HA-j</loc>
       
         <lastmod>2019-04-29T16:00:00+02:00</lastmod>
       
@@ -153,7 +153,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2018/hike</loc>
+      <loc>/publications/2018/hike</loc>
       
         <lastmod>2018-07-07T16:00:00+02:00</lastmod>
       
@@ -168,7 +168,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2018/matrioska</loc>
+      <loc>/publications/2018/matrioska</loc>
       
         <lastmod>2018-06-05T16:00:00+02:00</lastmod>
       
@@ -183,7 +183,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2018/twohopdb</loc>
+      <loc>/publications/2018/twohopdb</loc>
       
         <lastmod>2018-01-09T15:00:00+01:00</lastmod>
       
@@ -198,7 +198,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2018/hbdbmeets</loc>
+      <loc>/publications/2018/hbdbmeets</loc>
       
         <lastmod>2018-01-01T15:00:00+01:00</lastmod>
       
@@ -213,7 +213,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2017/private-enough</loc>
+      <loc>/publications/2017/private-enough</loc>
       
         <lastmod>2017-12-04T15:00:00+01:00</lastmod>
       
@@ -228,7 +228,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2017/sav</loc>
+      <loc>/publications/2017/sav</loc>
       
         <lastmod>2017-12-04T15:00:00+01:00</lastmod>
       
@@ -243,7 +243,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2017/twohopdb</loc>
+      <loc>/publications/2017/twohopdb</loc>
       
         <lastmod>2017-11-09T15:00:00+01:00</lastmod>
       
@@ -258,7 +258,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2017/biomagazine</loc>
+      <loc>/publications/2017/biomagazine</loc>
       
         <lastmod>2017-10-19T16:00:00+02:00</lastmod>
       
@@ -273,7 +273,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2017/multihop</loc>
+      <loc>/publications/2017/multihop</loc>
       
         <lastmod>2017-08-25T16:00:00+02:00</lastmod>
       
@@ -288,7 +288,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2016/multi-key-HA</loc>
+      <loc>/publications/2016/multi-key-HA</loc>
       
         <lastmod>2016-12-04T15:00:00+01:00</lastmod>
       
@@ -303,7 +303,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2016/lincentiate</loc>
+      <loc>/publications/2016/lincentiate</loc>
       
         <lastmod>2016-08-25T16:00:00+02:00</lastmod>
       
@@ -318,7 +318,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2015/using-db</loc>
+      <loc>/publications/2015/using-db</loc>
       
         <lastmod>2015-07-01T16:00:00+02:00</lastmod>
       
@@ -333,7 +333,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2015/short-hbdb-mitigating</loc>
+      <loc>/publications/2015/short-hbdb-mitigating</loc>
       
         <lastmod>2015-06-25T16:00:00+02:00</lastmod>
       
@@ -348,7 +348,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2014/on-the-leakage</loc>
+      <loc>/publications/2014/on-the-leakage</loc>
       
         <lastmod>2014-12-14T16:36:27+01:00</lastmod>
       
@@ -363,7 +363,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/publications/2014/attacks-on-ppbio</loc>
+      <loc>/publications/2014/attacks-on-ppbio</loc>
       
         <lastmod>2014-10-17T16:00:00+02:00</lastmod>
       
@@ -379,24 +379,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/</loc>
+      <loc>/blog/</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/cv/</loc>
-      
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -409,24 +394,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>/cv/</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/</loc>
-      
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -439,24 +409,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/miscellany/item-1/</loc>
+      <loc>/feed.xml</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/miscellany/item-2/</loc>
-      
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -469,24 +424,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/css/main.css</loc>
+      <loc>/</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/miscellany/</loc>
-      
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -499,24 +439,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/phd_thesis/</loc>
+      <loc>/miscellany/item-1/</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/publications/</loc>
-      
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -529,9 +454,84 @@
   
     
     <url>
-      <loc>http://localhost:4000/research/</loc>
+      <loc>/miscellany/item-2/</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/css/main.css</loc>
+      
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/miscellany/</loc>
+      
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/phd_thesis/</loc>
+      
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/publications/</loc>
+      
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/research/</loc>
+      
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -546,9 +546,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/teaching/</loc>
+      <loc>/teaching/</loc>
       
-        <lastmod>2021-04-28T13:00:26+02:00</lastmod>
+        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
