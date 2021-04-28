@@ -12,7 +12,7 @@ git add *
 
 git commit -m "updates"
 
-git push origin master
+sudo git push 
 
 #USERNAME=elenap
 #RHOST=git@github.com:

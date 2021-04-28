@@ -381,7 +381,7 @@
     <url>
       <loc>/blog/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -396,7 +396,7 @@
     <url>
       <loc>/cv/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -411,7 +411,7 @@
     <url>
       <loc>/feed.xml</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -426,37 +426,7 @@
     <url>
       <loc>/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/miscellany/item-1/</loc>
-      
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/miscellany/item-2/</loc>
-      
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -471,7 +441,7 @@
     <url>
       <loc>/css/main.css</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -486,7 +456,7 @@
     <url>
       <loc>/miscellany/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -501,7 +471,7 @@
     <url>
       <loc>/phd_thesis/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -516,7 +486,7 @@
     <url>
       <loc>/publications/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -531,7 +501,7 @@
     <url>
       <loc>/research/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -548,7 +518,7 @@
     <url>
       <loc>/teaching/</loc>
       
-        <lastmod>2021-04-28T13:14:09+02:00</lastmod>
+        <lastmod>2021-04-28T13:20:34+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
