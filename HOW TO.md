@@ -12,7 +12,13 @@ to upload the website:
 	- the script does the magic of the 'MANUALLY' tasks above
 	
 # the EMBEDDED PDF for the CV
-works though dropbox! upload the new document on DropBox and change the file name in cv.md (the dropbox reading is done by a script in embedpdf.html)
+works though dropbox! upload the new document on DropBox and change the file name in cv.md (the dropbox reading is done by a script in embedpdf.html) 
+
+<!-- do not forget to CHANGE also the line below, and upload new pdf to DROBPOX, right clic and 'copy link'-->
+{% include embedpdf.html code="bhrxq7il71tv4tg/elenapCVapr2020.pdf?dl=0" width=100 height=800 %} 
+
+NOW handled with iframe an link to the pdf in the images folder
+<iframe src="{{ site.baseurl }}/images/elenapCVapr2020.pdf" embedded="true" width="100%" height="800"></iframe>
 
 # INSTALL JEKYLL on MAHCINE (only needed the first time)
 
