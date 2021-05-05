@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, J. Liu, A. Mitrokotsa on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-j.-liu-a.-mitrokotsa/</link>
+    <description>Recent content in E. Pagnin, J. Liu, A. Mitrokotsa on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2017 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/e.-pagnin-j.-liu-a.-mitrokotsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revisiting Yasuda et al.’s Biometric Authentication Protocol: Are you Private Enough?</title>
+      <link>http://example.org/papers/2017-private-enough/</link>
+      <pubDate>Mon, 04 Dec 2017 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2017-private-enough/</guid>
+      <description>Biometric Authentication Protocols (BAPs) have increasingly been employed to guarantee reliable access control to places and services. However, it is well-known that biometric traits contain sensitive information of individuals and if compromised could lead to serious security and privacy breaches. Yasuda et al. [23] proposed a distributed privacy-preserving BAP which Abidin et al. [1] have shown to be vulnerable to biometric template recovery attacks under the presence of a malicious computational server.</description>
+    </item>
+    
+  </channel>
+</rss>

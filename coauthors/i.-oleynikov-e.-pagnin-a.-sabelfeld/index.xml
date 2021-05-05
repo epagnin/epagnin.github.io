@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Oleynikov, E. Pagnin, A. Sabelfeld on Elena Pagnin</title>
+    <link>http://example.org/coauthors/i.-oleynikov-e.-pagnin-a.-sabelfeld/</link>
+    <description>Recent content in I. Oleynikov, E. Pagnin, A. Sabelfeld on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 10:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/i.-oleynikov-e.-pagnin-a.-sabelfeld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where are you Bob? Privacy-Preserving Proximity Testing with a Napping Party</title>
+      <link>http://example.org/papers/2020-olic/</link>
+      <pubDate>Wed, 16 Sep 2020 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2020-olic/</guid>
+      <description>Location based services (LBS) extensively utilize proximity testing to help people discover nearby friends, devices, and services. Current practices rely on full trust to the service providers: users share their locations with the providers who perform proximity testing on behalf of the users. Unfortunately, location data has been often breached by LBS providers, raising privacy concerns over the current practices. To address these concerns previous research has suggested cryptographic protocols for privacy-preserving location proximity testing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Yang, E. Pagnin, A. Mitrokotsa, G. Hancke, D. Wong on Elena Pagnin</title>
+    <link>http://example.org/coauthors/a.-yang-e.-pagnin-a.-mitrokotsa-g.-hancke-d.-wong/</link>
+    <description>Recent content in A. Yang, E. Pagnin, A. Mitrokotsa, G. Hancke, D. Wong on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/a.-yang-e.-pagnin-a.-mitrokotsa-g.-hancke-d.-wong/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two-hop Distance-Bounding Protocols: Keep your Friends Close</title>
+      <link>http://example.org/papers/2018-01-09-twohopdb/</link>
+      <pubDate>Tue, 09 Jan 2018 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2018-01-09-twohopdb/</guid>
+      <description>Distance-bounding (DB) protocols are cross-layer authentication protocols that are based on the round-trip-time of challenge-response exchanges and can be employed to guarantee physical proximity and combat relay attacks. However, traditional DB protocols rely on the assumption that the prover is in the communication range of the verifier, which might not be the case in multiple access control scenarios in ubiquitous computing environments or when we need to verify the proximity of our two-hop neighbour in an ad-hoc network.</description>
+    </item>
+    
+    <item>
+      <title>Two-hop Distance-Bounding Protocols: Keep your Friends Close</title>
+      <link>http://example.org/papers/2017-twohopdb/</link>
+      <pubDate>Thu, 09 Nov 2017 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2017-twohopdb/</guid>
+      <description>Distance-bounding (DB) protocols are cross-layer authentication protocols that are based on the round-trip-time of challenge-response exchanges and can be employed to guarantee physical proximity and combat relay attacks. However, traditional DB protocols rely on the assumption that the prover is in the communication range of the verifier, which might not be the case in multiple access control scenarios in ubiquitous computing environments or when we need to verify the proximity of our two-hop neighbour in an ad-hoc network.</description>
+    </item>
+    
+  </channel>
+</rss>

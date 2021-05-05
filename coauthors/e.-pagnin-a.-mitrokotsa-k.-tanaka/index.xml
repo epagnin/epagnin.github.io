@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, A. Mitrokotsa, K. Tanaka on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-a.-mitrokotsa-k.-tanaka/</link>
+    <description>Recent content in E. Pagnin, A. Mitrokotsa, K. Tanaka on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2017 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/e.-pagnin-a.-mitrokotsa-k.-tanaka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anonymous Single-Round Server-Aided Verification</title>
+      <link>http://example.org/papers/2017-09-20-sav/</link>
+      <pubDate>Mon, 04 Dec 2017 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2017-09-20-sav/</guid>
+      <description>Server-Aided Verification (SAV) is a method that can be em- ployed to speed up the process of verifying signatures by letting the verifier outsource part of its computation load to a third party. Achieving fast and reliable verification under the presence of an untrusted server is an attractive goal in cloud computing and internet of things scenarios. In this paper, we describe a simple framework for SAV where the interaction between a verifier and an untrusted server happens via a single-round protocol.</description>
+    </item>
+    
+  </channel>
+</rss>

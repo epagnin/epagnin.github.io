@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, G. Gunnarsson, P. Talebi, C. Orlandi, A. Sabelfeld on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-g.-gunnarsson-p.-talebi-c.-orlandi-a.-sabelfeld/</link>
+    <description>Recent content in E. Pagnin, G. Gunnarsson, P. Talebi, C. Orlandi, A. Sabelfeld on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/e.-pagnin-g.-gunnarsson-p.-talebi-c.-orlandi-a.-sabelfeld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TOPPool: time-aware optimized privacy-preserving ridesharing</title>
+      <link>http://example.org/papers/2019-07-15-toppool/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2019-07-15-toppool/</guid>
+      <description>Ridesharing is revolutionizing the transportation industry in many countries. Yet, the state of the art is based on heavily centralized services and platforms, where the service providers have full possession of the users’ location data. Recently, researchers have started addressing the challenge of enabling privacy-preserving ridesharing. The initial proposals, however, have shortcomings, as some rely on a central party, some incur high performance penalties, and most do not consider time preferences for ridesharing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, E. Yang, G. Hancke, A. Mitrokotsa on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-e.-yang-g.-hancke-a.-mitrokotsa/</link>
+    <description>Recent content in E. Pagnin, E. Yang, G. Hancke, A. Mitrokotsa on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2015 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/e.-pagnin-e.-yang-g.-hancke-a.-mitrokotsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HB&#43;DB, Mitigating Man-in-the-Middle Attacks Against HB&#43; with Distance Bounding</title>
+      <link>http://example.org/papers/2015-06-25-short-hbdb-mitigating/</link>
+      <pubDate>Thu, 25 Jun 2015 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2015-06-25-short-hbdb-mitigating/</guid>
+      <description>Authentication for resource-constrained devices is seen as one of the major challenges in current wireless communication networks.
+The HB+ protocol performs device authentication based on the learning parity with noise (LPN) problem and simple computational steps, that renders it suitable for resource-constrained devices such as radio frequency identification (RFID) tags. However, it has been shown that the HB+ protocol as well as many of its variants are vulnerable to a simple man-in-the-middle attack.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, C. Dimitrakakis, A. Abidin, A. Mitrokotsa. on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-c.-dimitrakakis-a.-abidin-a.-mitrokotsa./</link>
+    <description>Recent content in E. Pagnin, C. Dimitrakakis, A. Abidin, A. Mitrokotsa. on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/coauthors/e.-pagnin-c.-dimitrakakis-a.-abidin-a.-mitrokotsa./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Leakage of Information in Biometric Authentication.</title>
+      <link>http://example.org/papers/2014-on-the-leakage/</link>
+      <pubDate>Sun, 14 Dec 2014 15:36:27 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2014-on-the-leakage/</guid>
+      <description>In biometric authentication protocols, a user is authenticated or granted access to a service if her fresh biometric trait matches the reference biometric template stored on the service provider. This matching process is usually based on a suitable distance which measures the similarities between the two biometric templates. In this paper, we prove that, when the matching process is performed using a specific family of distances (which includes distances such as the Hamming and the Euclidean distance), then information about the reference template is leaked.</description>
+    </item>
+    
+  </channel>
+</rss>

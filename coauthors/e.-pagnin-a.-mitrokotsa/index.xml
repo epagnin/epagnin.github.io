@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, A. Mitrokotsa on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-a.-mitrokotsa/</link>
+    <description>Recent content in E. Pagnin, A. Mitrokotsa on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/e.-pagnin-a.-mitrokotsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy-preserving biometric authentication: challenges and directions</title>
+      <link>http://example.org/papers/2017-10-19-biomagazine/</link>
+      <pubDate>Thu, 19 Oct 2017 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2017-10-19-biomagazine/</guid>
+      <description>An emerging direction for authenticating people is the adoption of biometric authentication systems. Biometric credentials are becoming increasingly popular as a means of authenticating people due to the wide range of advantages that they provide with respect to classical authentication methods (e.g., password-based authentication). The most characteristic feature of this authentication method is the naturally strong bond between a user and her biometric credentials. This very same advantageous property, however, raises serious security and privacy concerns in case the biometric trait gets compromised.</description>
+    </item>
+    
+  </channel>
+</rss>

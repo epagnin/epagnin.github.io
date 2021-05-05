@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Lucani, L. Nielsen, C. Orlandi, E. Pagnin, and R. Vestergaard on Elena Pagnin</title>
+    <link>http://example.org/coauthors/d.-lucani-l.-nielsen-c.-orlandi-e.-pagnin-and-r.-vestergaard/</link>
+    <description>Recent content in D. Lucani, L. Nielsen, C. Orlandi, E. Pagnin, and R. Vestergaard on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/d.-lucani-l.-nielsen-c.-orlandi-e.-pagnin-and-r.-vestergaard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure Generalized Deduplication via Multi-Key Revealing Encryption</title>
+      <link>http://example.org/papers/2020-mkre/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2020-mkre/</guid>
+      <description>Cloud Storage Providers (CSPs) offer solutions to relieve users from locally storing vast amounts of data, including personal and sensitive ones. While users may desire to retain some privacy on the data they outsource, CSPs are interested in reducing the total storage space by employing compression techniques such as deduplication. We propose a new cryptographic primitive that simultaneously realizes both requirements: Multi-Key Revealing Encryption (MKRE). The goal of MKRE is to disclose the result of a predefined function over multiple ciphertexts, even if the ciphertexts were generated using different keys, while revealing nothing else about the data.</description>
+    </item>
+    
+  </channel>
+</rss>

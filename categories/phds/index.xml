@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phds on Elena Pagnin</title>
+    <link>http://example.org/categories/phds/</link>
+    <description>Recent content in phds on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Apr 2021 10:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/phds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIT &amp;co</title>
+      <link>http://example.org/posts/2020-04-27-git/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2020-04-27-git/</guid>
+      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital you log in it. When writing a paper with other people, it makes it easy to trace changes, ensure everyone can reach the most recent version of the text / code / experiments, and revert back in time to restore previous versions, if needed. As a PhD student, if you want to do research with me, knowing how to navigate git is a prerequisite.</description>
+    </item>
+    
+    <item>
+      <title>Things you should know</title>
+      <link>http://example.org/posts/2020-04-27-phd-qa/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2020-04-27-phd-qa/</guid>
+      <description>This post contains some common Q&amp;amp;A for PhD students:
+Q: Am I allowed to submit the same paper to multiple venues? A: In general NO, not simultaneously. The large majority of the conferences and journals in our filed only accept original works (i.e., papers that do not have large overlap with existing work). If your paper is rejected from venue1, of course you can submit (an improved version) to venue2, after you receive the final notification of rejection.</description>
+    </item>
+    
+  </channel>
+</rss>

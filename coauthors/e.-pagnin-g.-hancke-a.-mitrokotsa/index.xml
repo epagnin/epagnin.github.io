@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pagnin, G. Hancke, A. Mitrokotsa on Elena Pagnin</title>
+    <link>http://example.org/coauthors/e.-pagnin-g.-hancke-a.-mitrokotsa/</link>
+    <description>Recent content in E. Pagnin, G. Hancke, A. Mitrokotsa on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2015 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/e.-pagnin-g.-hancke-a.-mitrokotsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using distance-bounding protocols to securely verify the proximity of two-hop neighbours</title>
+      <link>http://example.org/papers/2015-07-01-using-db/</link>
+      <pubDate>Wed, 01 Jul 2015 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2015-07-01-using-db/</guid>
+      <description>Distance-bounding protocols allow devices to cryptographically verify the physical proximity of two parties and is a prominent secure neighbour detection method. We describe how existing distance-bounding protocols could be modified to verify the proximity of both next-hop and two-hop neighbours. This approach allows a node to verify that another node is a physical next-hop neighbour, and also detects legitimate neighbours who make dishonest claims as to who their neighbours are. This approach could prevent dishonest neighbours from hoarding traffic as the result of advertising false two-hop routes.</description>
+    </item>
+    
+  </channel>
+</rss>

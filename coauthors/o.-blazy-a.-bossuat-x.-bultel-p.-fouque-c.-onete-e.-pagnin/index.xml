@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Blazy, A. Bossuat, X. Bultel, P. Fouque, C. Onete, E. Pagnin on Elena Pagnin</title>
+    <link>http://example.org/coauthors/o.-blazy-a.-bossuat-x.-bultel-p.-fouque-c.-onete-e.-pagnin/</link>
+    <description>Recent content in O. Blazy, A. Bossuat, X. Bultel, P. Fouque, C. Onete, E. Pagnin on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/o.-blazy-a.-bossuat-x.-bultel-p.-fouque-c.-onete-e.-pagnin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAID: Reshaping Signal into an Identity-Based Asynchronous Messaging Protocol with Authenticated Ratcheting</title>
+      <link>http://example.org/papers/2019-said/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2019-said/</guid>
+      <description>As messaging applications are becoming increasingly popular, it is of utmost importance to analyze their security and mitigate existing weaknesses. This paper focuses on one of the most acclaimed messaging applications: Signal. Signal is a protocol that provides end-to-end channel security, forward secrecy, and post-compromise security. These features are achieved thanks to a key-ratcheting mechanism that updates the key material at every message. Due to its high security impact, Signal’s key-ratcheting has recently been formalized, along with an analysis of its security.</description>
+    </item>
+    
+  </channel>
+</rss>

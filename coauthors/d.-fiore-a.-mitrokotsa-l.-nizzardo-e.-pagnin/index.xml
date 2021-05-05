@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Fiore, A. Mitrokotsa, L. Nizzardo, E. Pagnin on Elena Pagnin</title>
+    <link>http://example.org/coauthors/d.-fiore-a.-mitrokotsa-l.-nizzardo-e.-pagnin/</link>
+    <description>Recent content in D. Fiore, A. Mitrokotsa, L. Nizzardo, E. Pagnin on Elena Pagnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 14:00:00 +0000</lastBuildDate><atom:link href="http://example.org/coauthors/d.-fiore-a.-mitrokotsa-l.-nizzardo-e.-pagnin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-key homomorphic authenticators</title>
+      <link>http://example.org/papers/2019-04-29-multi-key-ha-j/</link>
+      <pubDate>Mon, 29 Apr 2019 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2019-04-29-multi-key-ha-j/</guid>
+      <description>Homomorphic authenticators (HAs) enable a client to authenticate a large collection of data elements m_1,&amp;hellip;,m_t and outsource them, along with the corresponding authenticators, to an untrusted server. At any later point, the server can generate a short authenticator sigma_(f,y) vouching for the correctness of the output y of a function f computed on the outsourced data, i.e., y = f(m_1,&amp;hellip;,m_t). Recently researchers have focused on HAs as a solution, with minimal communication and interaction, to the problem of delegating computation on outsourced data.</description>
+    </item>
+    
+    <item>
+      <title>Multi-key homomorphic authenticators</title>
+      <link>http://example.org/papers/2016-mkha/</link>
+      <pubDate>Sun, 04 Dec 2016 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/2016-mkha/</guid>
+      <description>Homomorphic authenticators (HAs) enable a client to authenticate a large collection of data elements m_1,&amp;hellip;,m_t and outsource them, along with the corresponding authenticators, to an untrusted server. At any later point, the server can generate a short authenticator sigma_(f,y) vouching for the correctness of the output y of a function f computed on the outsourced data, i.e., y = f(m_1,&amp;hellip;,m_t). Recently researchers have focused on HAs as a solution, with minimal communication and interaction, to the problem of delegating computation on outsourced data.</description>
+    </item>
+    
+  </channel>
+</rss>
