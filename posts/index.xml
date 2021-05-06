@@ -6,7 +6,17 @@
     <description>Recent content in Miscellanea on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About this website</title>
+      <link>https://epagnin.github.io/posts/2020-04-website/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2020-04-website/</guid>
+      <description>How did I build this website? For academics, I think having a personal website is quite important as it allows you to quickly advertise news, collect and organize your work, and, most importantly, it is a great way for everyone around the world to know you exist and what you&amp;rsquo;re up to.
+For several years I have used jekyll, but it started to get messy with the latest OS updates and gem versions.</description>
+    </item>
+    
     <item>
       <title>4 LaTeX</title>
       <link>https://epagnin.github.io/posts/2020-04-27-latex/</link>
@@ -22,7 +32,7 @@
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-git/</guid>
-      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital you log in it. When writing a paper with other people, it makes it easy to trace changes, ensure everyone can reach the most recent version of the text / code / experiments, and revert back in time to restore previous versions, if needed. As a PhD student, if you want to do research with me, knowing how to navigate git is a prerequisite.</description>
+      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital data you log in it. When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert back in time to restore previous versions.</description>
     </item>
     
     <item>
