@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Elena Pagnin</title>
-    <link>http://example.org/categories/</link>
+    <link>https://epagnin.github.io/categories/</link>
     <description>Recent content in Categories on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 10:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>phds</title>
-      <link>http://example.org/categories/phds/</link>
+      <link>https://epagnin.github.io/categories/phds/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/phds/</guid>
+      <guid>https://epagnin.github.io/categories/phds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tricks</title>
-      <link>http://example.org/categories/tricks/</link>
+      <link>https://epagnin.github.io/categories/tricks/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/tricks/</guid>
+      <guid>https://epagnin.github.io/categories/tricks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conference</title>
-      <link>http://example.org/categories/conference/</link>
+      <link>https://epagnin.github.io/categories/conference/</link>
       <pubDate>Mon, 04 Dec 2017 14:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/conference/</guid>
+      <guid>https://epagnin.github.io/categories/conference/</guid>
       <description></description>
     </item>
     
