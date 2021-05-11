@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>TOPPool: time-aware optimized privacy-preserving ridesharing</title>
+      <link>https://epagnin.github.io/papers/2019-toppool/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2019-toppool/</guid>
+      <description>Ridesharing is revolutionizing the transportation industry in many countries. Yet, the state of the art is based on heavily centralized services and platforms, where the service providers have full possession of the users’ location data. Recently, researchers have started addressing the challenge of enabling privacy-preserving ridesharing. The initial proposals, however, have shortcomings, as some rely on a central party, some incur high performance penalties, and most do not consider time preferences for ridesharing.</description>
+    </item>
+    
+    <item>
       <title>The simplest multi-key linearly homomorphic signature scheme</title>
       <link>https://epagnin.github.io/papers/2019-simplest/</link>
       <pubDate>Sun, 04 Aug 2019 14:00:00 +0000</pubDate>
@@ -59,15 +68,6 @@
       
       <guid>https://epagnin.github.io/papers/2019-04-29-multi-key-ha-j/</guid>
       <description>Homomorphic authenticators (HAs) enable a client to authenticate a large collection of data elements m_1,&amp;hellip;,m_t and outsource them, along with the corresponding authenticators, to an untrusted server. At any later point, the server can generate a short authenticator sigma_(f,y) vouching for the correctness of the output y of a function f computed on the outsourced data, i.e., y = f(m_1,&amp;hellip;,m_t). Recently researchers have focused on HAs as a solution, with minimal communication and interaction, to the problem of delegating computation on outsourced data.</description>
-    </item>
-    
-    <item>
-      <title>TOPPool: time-aware optimized privacy-preserving ridesharing</title>
-      <link>https://epagnin.github.io/papers/2019-07-15-toppool/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/papers/2019-07-15-toppool/</guid>
-      <description>Ridesharing is revolutionizing the transportation industry in many countries. Yet, the state of the art is based on heavily centralized services and platforms, where the service providers have full possession of the users’ location data. Recently, researchers have started addressing the challenge of enabling privacy-preserving ridesharing. The initial proposals, however, have shortcomings, as some rely on a central party, some incur high performance penalties, and most do not consider time preferences for ridesharing.</description>
     </item>
     
     <item>
