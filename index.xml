@@ -72,15 +72,6 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/ieee-sp4/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ieee-sp4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/cans/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -442,6 +433,15 @@ The HB+ protocol performs device authentication based on the learning parity wit
       <description>I embedded a current version of my CV below (you might need to wait for a few seconds before it appears, the pdf embedding does not work on mobile devices).
 You can also download the PDF here
  </description>
+    </item>
+    
+    <item>
+      <title>General Info for Adds</title>
+      <link>https://epagnin.github.io/bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/bio/</guid>
+      <description>Short Bio Elena Pagnin is an assistant professor at Lund University (Sweden) since 2020. Her research is focused on cryptography and security, with a special interest for homomorphic cryptosystems, data authentication and user privacy. Prior to joining Lund University, Elena has been a post doctoral researcher in the crypto group at Aarhus University. Elena completed her PhD at Chalmers (Göteborg, Sweden) in 2019. Her motto is: det är lätt att vara efterklok (it&amp;rsquo;s easy to be wise in hindsight).</description>
     </item>
     
     <item>
