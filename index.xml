@@ -334,15 +334,6 @@ Q: Am I allowed to submit the same paper to multiple venues? A: In general NO, n
     </item>
     
     <item>
-      <title>Two-hop Distance-Bounding Protocols: Keep your Friends Close</title>
-      <link>https://epagnin.github.io/papers/2018-01-09-twohopdb/</link>
-      <pubDate>Tue, 09 Jan 2018 14:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/papers/2018-01-09-twohopdb/</guid>
-      <description>Distance-bounding (DB) protocols are cross-layer authentication protocols that are based on the round-trip-time of challenge-response exchanges and can be employed to guarantee physical proximity and combat relay attacks. However, traditional DB protocols rely on the assumption that the prover is in the communication range of the verifier, which might not be the case in multiple access control scenarios in ubiquitous computing environments or when we need to verify the proximity of our two-hop neighbour in an ad-hoc network.</description>
-    </item>
-    
-    <item>
       <title>HB&#43;DB: Distance bounding meets human based authentication</title>
       <link>https://epagnin.github.io/papers/2018-hbdbmeets/</link>
       <pubDate>Mon, 01 Jan 2018 14:00:00 +0000</pubDate>
@@ -425,6 +416,15 @@ The HB+ protocol performs device authentication based on the learning parity wit
     </item>
     
     <item>
+      <title>CRYSPY Lab</title>
+      <link>https://epagnin.github.io/cryspy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/cryspy/</guid>
+      <description>CRYSPY Lab (CRYptography Security and PrivacY) this page is under construction</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>https://epagnin.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -451,8 +451,7 @@ You can also download the PDF here
       
       <guid>https://epagnin.github.io/research/</guid>
       <description>My research interests lie in the area of homomorphic cryptographic primitives, user privacy and data authentication. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
-Here you can find a complete list of publications of mine (with full-text access and recorded presentation). You can also check dblp and GoogleScholar.
-Here I collect a list of upcoming submission deadlines for venues I like.</description>
+Mind-Map-Overview of (most of) My Work You can find a complete list of publications of mine You can also check dblp, GoogleScholar or here if you want to get direct links to full-texts and recorded presentations.</description>
     </item>
     
     <item>

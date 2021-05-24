@@ -89,15 +89,6 @@
     </item>
     
     <item>
-      <title>Two-hop Distance-Bounding Protocols: Keep your Friends Close</title>
-      <link>https://epagnin.github.io/papers/2018-01-09-twohopdb/</link>
-      <pubDate>Tue, 09 Jan 2018 14:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/papers/2018-01-09-twohopdb/</guid>
-      <description>Distance-bounding (DB) protocols are cross-layer authentication protocols that are based on the round-trip-time of challenge-response exchanges and can be employed to guarantee physical proximity and combat relay attacks. However, traditional DB protocols rely on the assumption that the prover is in the communication range of the verifier, which might not be the case in multiple access control scenarios in ubiquitous computing environments or when we need to verify the proximity of our two-hop neighbour in an ad-hoc network.</description>
-    </item>
-    
-    <item>
       <title>HB&#43;DB: Distance bounding meets human based authentication</title>
       <link>https://epagnin.github.io/papers/2018-hbdbmeets/</link>
       <pubDate>Mon, 01 Jan 2018 14:00:00 +0000</pubDate>
