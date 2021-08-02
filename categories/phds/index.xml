@@ -33,7 +33,16 @@ For several years I have used jekyll, but it started to get messy with the lates
       
       <guid>https://epagnin.github.io/posts/2020-04-27-phd-qa/</guid>
       <description>This post contains some common Q&amp;amp;A for PhD students:
-Q: Am I allowed to submit the same paper to multiple venues? A: In general NO, not simultaneously. The large majority of the conferences and journals in our filed only accept original works (i.e., papers that do not have large overlap with existing work). If your paper is rejected from venue1, of course you can submit (an improved version) to venue2, after you receive the final notification of rejection.</description>
+Q: Where can I look for papers to read and study? A: In the beginning of your PhD, start by looking at the list of accepted papers at top- and mid-level conferences. You can do this by googling the conference name, a year and search for a link of &amp;lsquo;accepted papers&amp;rsquo; or &amp;lsquo;program&amp;rsquo;. [Names of conferences: CRYPTO, EUROCRYPT, ASIACRYPT, PKC, Theory of Cryptography Conference] Some conferences also provide video recording of the presentations (which is a time-efficient way to get what the paper is about).</description>
+    </item>
+    
+    <item>
+      <title>Wondering what other researchers think?</title>
+      <link>https://epagnin.github.io/posts/2021-07-24-mentoring/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2021-07-24-mentoring/</guid>
+      <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched a initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this serie of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic carier.</description>
     </item>
     
   </channel>
