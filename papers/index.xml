@@ -6,7 +6,16 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LOVE a Pairing</title>
+      <link>https://epagnin.github.io/papers/2021-love/</link>
+      <pubDate>Wed, 04 Aug 2021 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2021-love/</guid>
+      <description>The problem of securely outsourcing the computation of a bilinear pairing has been widely investigated in the literature. Designing an eﬀicient protocol with the desired functionality has, however, been an open challenge for a long time. Recently, Di Crescenzo et al. (CARDIS’20) proposed the first suite of protocols for securely and eﬀiciently delegating pairings with online inputs under the presence of a malicious server. We progress along this path with the aim of LOVE (Lowering the cost of Outsourcing and Verifying Eﬀiciently) a pairing.</description>
+    </item>
+    
     <item>
       <title>Yggdrasil: Privacy-aware Dual Deduplication in Multi Client Settings</title>
       <link>https://epagnin.github.io/papers/2021-yggrdasil/</link>
