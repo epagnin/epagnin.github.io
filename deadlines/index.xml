@@ -45,6 +45,24 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/ct-rsa/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/euro-sp/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -58,15 +76,6 @@
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/pkc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/ct-rsa/</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
       <description></description>
     </item>
     
@@ -180,6 +189,15 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/ccs2/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ccs2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/esorics2/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
@@ -216,19 +234,19 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/esorics1/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <link>https://epagnin.github.io/deadlines/ccs1/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
+      <guid>https://epagnin.github.io/deadlines/ccs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <link>https://epagnin.github.io/deadlines/esorics1/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
+      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
       <description></description>
     </item>
     

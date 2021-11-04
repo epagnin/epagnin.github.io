@@ -45,6 +45,24 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/ct-rsa/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/euro-sp/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -58,15 +76,6 @@
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/pkc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/ct-rsa/</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
       <description></description>
     </item>
     
@@ -189,6 +198,15 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/ccs2/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ccs2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/esorics2/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
@@ -232,6 +250,15 @@ For several years I have used jekyll, but it started to get messy with the lates
       <guid>https://epagnin.github.io/posts/2020-04-27-phd-qa/</guid>
       <description>This post contains some common Q&amp;amp;A for PhD students:
 Q: Where can I look for papers to read and study? A: In the beginning of your PhD, start by looking at the list of accepted papers at top- and mid-level conferences. You can do this by googling the conference name, a year and search for a link of &amp;lsquo;accepted papers&amp;rsquo; or &amp;lsquo;program&amp;rsquo;. [Names of conferences: CRYPTO, EUROCRYPT, ASIACRYPT, PKC, Theory of Cryptography Conference] Some conferences also provide video recording of the presentations (which is a time-efficient way to get what the paper is about).</description>
+    </item>
+    
+    <item>
+      <title>Tipps for Good Teaching Practice</title>
+      <link>https://epagnin.github.io/posts/2021-10-11-teaching/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2021-10-11-teaching/</guid>
+      <description>Tipps for Good Teaching Practice As part of your PhD education at LTH, you will take some pedagogical courses regarding teaching, learning and how to evaluate students&#39; learning. But when it comes to it, how do you structure a lecture? Here and here you can find a list of clear and valuable pointers to keep in mind when preparing yourself to this task.</description>
     </item>
     
     <item>
@@ -281,19 +308,19 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/esorics1/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <link>https://epagnin.github.io/deadlines/ccs1/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
+      <guid>https://epagnin.github.io/deadlines/ccs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <link>https://epagnin.github.io/deadlines/esorics1/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
+      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
       <description></description>
     </item>
     
@@ -487,7 +514,8 @@ You can also download the PDF here
       
       <guid>https://epagnin.github.io/research/</guid>
       <description>My research interests lie in the area of homomorphic cryptographic primitives, user privacy and data authentication. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
-Mind-Map-Overview of (most of) My Work You can find a complete list of publications of mine You can also check dblp, GoogleScholar or here if you want to get direct links to full-texts and recorded presentations.</description>
+Mind-Map-Overview of (most of) My Work You can find a complete list of publications of mine on dblp, GoogleScholar or here if you want to get direct links to full-texts and recorded presentations.
+Here I collect a list of upcoming submission deadlines for venues I like.</description>
     </item>
     
     <item>
