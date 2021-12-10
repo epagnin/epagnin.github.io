@@ -6,7 +6,16 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Count Me In! Extendability for Threshold Ring Signatures</title>
+      <link>https://epagnin.github.io/papers/2022-extrs/</link>
+      <pubDate>Thu, 09 Dec 2021 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2022-extrs/</guid>
+      <description>Ringsignaturesenableasignertosignamessageonbehalfofagroupanonymously,without revealing her identity. Similarly, threshold ring signatures allow several signers to sign the same message on behalf of a group; while the combined signature reveals that some threshold t of the group members signed the message, it does not leak anything else about the signers’ identities. Anonymity is a central feature in threshold ring signature applications, such as whistleblowing, e-voting and privacy-preserving cryptocurrencies: it is often crucial for signers to remain anonymous even from their fellow signers.</description>
+    </item>
+    
     <item>
       <title>LOVE a Pairing</title>
       <link>https://epagnin.github.io/papers/2021-love/</link>

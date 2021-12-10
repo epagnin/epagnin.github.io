@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Count Me In! Extendability for Threshold Ring Signatures</title>
+    <meta name="description" content="My personal webpage (mostly academic stuff)">
+    <meta name="author" content='Elena Pagnin'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+
+    
+        <link rel="icon" type="image/ico" href="https://epagnin.github.io/favicon.ico">
+    
+
+    
+        
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://epagnin.github.io" title="Elena Pagnin">
+          
+          Elena Pagnin
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/research" title="Research">
+                        Research
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/posts/" title="Misc">
+                        Misc
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/teaching" title="Teaching">
+                        Teaching
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container">
+    <h1>Count Me In! Extendability for Threshold Ring Signatures</h1>
+    <hr>
+    Authors: <i>D. Aranha, M. Hall-Andersen, A. Nitulescu, E. Pagnin, S. Yakoubov</i> 
+    <br>
+    In: International Conference on Practice and Theory of Public-Key Cryptography, 
+	2021
+	<br>
+	Full Text: 
+	<a href="https://eprint.iacr.org/2021/1240.pdf"><i class="fas fa-file"></i></a>
+	 
+    <hr>
+     <h3>Abstract</h3>
+    <p>Ringsignaturesenableasignertosignamessageonbehalfofagroupanonymously,without revealing her identity. Similarly, threshold ring signatures allow several signers to sign the same message on behalf of a group; while the combined signature reveals that some threshold t of the group members signed the message, it does not leak anything else about the signers’ identities. Anonymity is a central feature in threshold ring signature applications, such as whistleblowing, e-voting and privacy-preserving cryptocurrencies: it is often crucial for signers to remain anonymous even from their fellow signers. When the generation of a signature requires interaction, this is difficult to achieve. There exist threshold ring signatures with non-interactive signing — where signers locally produce partial signatures which can then be aggregated — but a limitation of existing threshold ring signature constructions is that all of the signers must agree on the group on whose behalf they are signing, which implicitly assumes some coordination amongst them. The need to agree on a group before generating a signature also prevents others — from outside that group — from endorsing a message by adding their signature to the statement post-factum.
+We overcome this limitation by introducing extendability for ring signatures, same-message linkable ring signatures, and threshold ring signatures. Extendability allows an untrusted third party to take a signature, and extend it by enlarging the anonymity set to a larger set. In the extendable threshold ring signature, two signatures on the same message which have been extended to the same anonymity set can then be combined into one signature with a higher threshold. This enhances signers’ anonymity, and enables new signers to anonymously support a statement already made by others.
+For each of those primitives, we formalize the syntax and provide a meaningful security model which includes different flavors of anonymous extendability. In addition, we present concrete realizations of each primitive and formally prove their security relying on signatures of knowledge and the hardness of the discrete logarithm problem. We also describe a generic transformation to obtain extendable threshold ring signatures from same-message-linkable extendable ring signatures. Finally, we implement and benchmark our constructions.</p>
+<p><strong>Keywords:</strong>
+Ring Signatures, Threshold Ring Signatures, Anonymity, Flexibility, Extendability</p>
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    <hr>
+    <div class="container text-center">
+        
+    </div>
+    
+</div>
+</body>
+</html>
