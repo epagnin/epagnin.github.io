@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://epagnin.github.io/deadlines/esorics2/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/scn/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/pets4/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+    <loc>https://epagnin.github.io/deadlines/crypto/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/deadlines/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+    <loc>https://epagnin.github.io/deadlines/acisps/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/pqc/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/esorics1/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/acns2/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
@@ -80,9 +98,6 @@
     <loc>https://epagnin.github.io/deadlines/ccs2/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/deadlines/esorics2/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://epagnin.github.io/posts/2020-04-website/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -119,17 +134,11 @@
     <loc>https://epagnin.github.io/deadlines/ieee-sp1/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/deadlines/crypto/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://epagnin.github.io/deadlines/itc/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/ccs1/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/esorics1/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/papers/2020-olic/</loc>
     <lastmod>2020-09-16T10:00:00+00:00</lastmod>
