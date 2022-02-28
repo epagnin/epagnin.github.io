@@ -46,6 +46,16 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
     </item>
     
     <item>
+      <title>What is Cryptography?</title>
+      <link>https://epagnin.github.io/posts/2022-01-20-crypto/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-01-20-crypto/</guid>
+      <description>What is Cryptography? If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalised and how to reason about security model, attackers and proofs.
+There is a gazillion of good resources available on the world wide web on these topics.</description>
+    </item>
+    
+    <item>
       <title>Wondering what other researchers think?</title>
       <link>https://epagnin.github.io/posts/2021-07-24-mentoring/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
