@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://epagnin.github.io/deadlines/space/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/asiacrypt/</loc>
+    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/esorics2/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <loc>https://epagnin.github.io/deadlines/pqc/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/scn/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
@@ -31,9 +40,6 @@
   </url><url>
     <loc>https://epagnin.github.io/deadlines/acisps/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/pqc/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/esorics1/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
@@ -88,9 +94,6 @@
   </url><url>
     <loc>https://epagnin.github.io/deadlines/pets1/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/asiacrypt/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/tcc/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>

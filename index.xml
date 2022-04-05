@@ -6,13 +6,40 @@
     <description>Recent content in About on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/space/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/asiacrypt/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/asiacrypt/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/esorics2/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/esorics2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pqc/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pqc/</guid>
       <description></description>
     </item>
     
@@ -67,15 +94,6 @@
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/acisps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pqc/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pqc/</guid>
       <description></description>
     </item>
     
@@ -243,15 +261,6 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/asiacrypt/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/asiacrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/tcc/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
@@ -330,8 +339,8 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-01-20-crypto/</guid>
-      <description>What is Cryptography? If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalised and how to reason about security model, attackers and proofs.
-There is a gazillion of good resources available on the world wide web on these topics.</description>
+      <description>What is Cryptography? Here&amp;rsquo;s a quick video explaining the magic you can do with cryptography.
+If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalised and how to reason about security model, attackers and proofs.</description>
     </item>
     
     <item>
