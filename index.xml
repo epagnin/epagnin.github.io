@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Outsourcing MPC Precomputation for Location Privacy</title>
+      <link>https://epagnin.github.io/papers/2022-polar/</link>
+      <pubDate>Fri, 08 Apr 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2022-polar/</guid>
+      <description>Proximity testing is at the core of several Location-Based Services (LBS) offered by, e.g., Uber, Facebook, and BlaBlaCar, as it determines closeness to a target. Unfortunately, modern LBS demand not only that clients disclose their locations in plain, but also to trust that the services will not abuse this information. These requirements are unfounded as there are ways to perform proximity testing without revealing one’s location. We propose POLAR, a protocol that implements privacy-preserving proximity testing for LBS.</description>
+    </item>
+    
+    <item>
       <title>Progressive And Effcient Verification For Digital Signatures</title>
       <link>https://epagnin.github.io/papers/2022-flabs/</link>
       <pubDate>Fri, 18 Mar 2022 14:00:00 +0000</pubDate>
@@ -303,6 +312,15 @@ For several years I have used jekyll, but it started to get messy with the lates
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
       <description>Handy links for LaTeX  Detexify automatic recognition of handwritten symbols  </description>
+    </item>
+    
+    <item>
+      <title>Cute Links</title>
+      <link>https://epagnin.github.io/posts/2022-04-08-links/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
+      <description>When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
     </item>
     
     <item>
@@ -577,9 +595,8 @@ You can also download the PDF here
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/research/</guid>
-      <description>My research interests lie in the area of homomorphic cryptographic primitives, user privacy and data authentication. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
-Mind-Map-Overview of (most of) My Work You can find a complete list of publications of mine on dblp, GoogleScholar or here if you want to get direct links to full-texts and recorded presentations.
-Here I collect a list of upcoming submission deadlines for venues I like.</description>
+      <description>My research interests lie in the area of homomorphic cryptographic primitives, user privacy, and data authentication. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
+Mind-Map-Overview of (most of) My Work Complete list of publications of mine with direct links to full-texts and recorded presentations. Check out also dblp, and GoogleScholar Here I collect a list of upcoming submission deadlines for venues I like.</description>
     </item>
     
     <item>

@@ -6,7 +6,16 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outsourcing MPC Precomputation for Location Privacy</title>
+      <link>https://epagnin.github.io/papers/2022-polar/</link>
+      <pubDate>Fri, 08 Apr 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2022-polar/</guid>
+      <description>Proximity testing is at the core of several Location-Based Services (LBS) offered by, e.g., Uber, Facebook, and BlaBlaCar, as it determines closeness to a target. Unfortunately, modern LBS demand not only that clients disclose their locations in plain, but also to trust that the services will not abuse this information. These requirements are unfounded as there are ways to perform proximity testing without revealing one’s location. We propose POLAR, a protocol that implements privacy-preserving proximity testing for LBS.</description>
+    </item>
+    
     <item>
       <title>Progressive And Effcient Verification For Digital Signatures</title>
       <link>https://epagnin.github.io/papers/2022-flabs/</link>
