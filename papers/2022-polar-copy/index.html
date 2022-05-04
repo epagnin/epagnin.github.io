@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>CatNap: Practical and actively secure proximity testing with a napping party based on generic MPC techniques</title>
+    <meta name="description" content="My personal webpage (mostly academic stuff)">
+    <meta name="author" content='Elena Pagnin'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+
+    
+        <link rel="icon" type="image/ico" href="https://epagnin.github.io/favicon.ico">
+    
+
+    
+        
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://epagnin.github.io" title="Elena Pagnin">
+          
+          Elena Pagnin
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/research" title="Research">
+                        Research
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/posts/" title="Misc">
+                        Misc
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/teaching" title="Teaching">
+                        Teaching
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/deadlines/" title="Deadlines">
+                        Deadlines
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container">
+    <h1>CatNap: Practical and actively secure proximity testing with a napping party based on generic MPC techniques</h1>
+    <hr>
+    Authors: <i>I. Oleynikov, E. Pagnin, A. Sabelfeld</i> 
+    <br>
+    In: 19th International Conference on Security and Cryptography, 
+	2022
+	<br>
+	Full Text: 
+	<a href=""><i class="fas fa-file"></i></a>
+	 
+    <hr>
+     <h3>Abstract</h3>
+    <p>Proximity testing functionality is at the core of most LocationBased Services (LBS). In a nutshell, proximity testing takes the locations of two clients from them and produces a single bit of result telling whether the clients are within each other’s proximity or not. Currently existing LBS require full trust from their clients; in order to use the service, clients have to disclose their locations in plain and trust that the service will not misuse them. Clamorous precedents of such misuse motivate the search for solutions which would ensure the privacy of client location.</p>
+<p>In this paper, we present CatNap, a novel cryptographic protocol to perform proximity testing in a privacy-preserving manner. We focus on Euclidean distance based matching: clients are considered to be in proximity if the Euclidean distance between them is below a chosen threshold value.
+The protocol involves two clients and two servers. The clients submit their location data to the servers, and then one of them retrieves the proximity testing result. Additionally, our protocol implements the “napping party” feature: the clients do not depend on each other’s presence to submit the data. This property is cricual to make proximity testing practical, because it allows clients to use the functionality without having to be simultaneously online.
+The CatNap achieves active security and allows any subset of parties to be corrupted as long as one of the two servers is honest. Unlike previous ad-hoc solutions, our protocol relies on a blackbox use of generic Multi-Party Computation (MPC) techniques. Importantly, the MPC building block employed in our protocol can be effortlessly replaced by future, more effcient implementations of the functionality, thus directly improving our performance. We provide a proof of concept implementation of our protocol using off-the-shelf MPC libraries and evaluate its performance in terms of computation and communication cost.</p>
+<p><strong>Keywords:</strong>
+Privacy, Proximity-Testing, Multiparty Computation, Active Security.</p>
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    <hr>
+    <div class="container text-center">
+        
+    </div>
+    
+</div>
+</body>
+</html>
