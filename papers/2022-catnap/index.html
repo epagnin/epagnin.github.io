@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Outsourcing MPC Precomputation for Location Privacy</title>
+    <title>CatNap: Practical and actively secure proximity testing with a napping party based on generic MPC techniques</title>
     <meta name="description" content="My personal webpage (mostly academic stuff)">
     <meta name="author" content='Elena Pagnin'>
 
@@ -67,21 +67,22 @@
 <div id="content">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
-    <h1>Outsourcing MPC Precomputation for Location Privacy</h1>
+    <h1>CatNap: Practical and actively secure proximity testing with a napping party based on generic MPC techniques</h1>
     <hr>
     Authors: <i>I. Oleynikov, E. Pagnin, A. Sabelfeld</i> 
     <br>
-    In: Location Privacy Workshop, 
+    In: 19th International Conference on Security and Cryptography, 
 	2022
 	<br>
 	Full Text: 
-	<a href="https://www.cse.chalmers.se/research/group/security/polar/polar-lpw-2022.pdf"><i class="fas fa-file"></i></a>
+	<a href="https://www.cse.chalmers.se/research/group/security/catnap/catnap-extended.pdf"><i class="fas fa-file"></i></a>
 	 
     <hr>
      <h3>Abstract</h3>
-    <p>Proximity testing is at the core of several Location-Based Services (LBS) offered by, e.g., Uber, Facebook, and BlaBlaCar, as it determines closeness to a target. Unfortunately, modern LBS demand not only that clients disclose their locations in plain, but also to trust that the services will not abuse this information. These requirements are unfounded as there are ways to perform proximity testing without revealing one’s location.
-We propose POLAR, a protocol that implements privacy-preserving proximity testing for LBS. POLAR is suitable for clients running mobile devices, and relies on a careful combination of three well-established multiparty computation protocols and lightweight cryptography. A point
-of originality is the inclusion of two servers into the proximity testing. The servers may aid multiple pairs of clients and contribute towards enhancing privacy, improving effciency, and reducing the running time of clients’ procedures.</p>
+    <p>Proximity testing functionality is at the core of most LocationBased Services (LBS). In a nutshell, proximity testing takes the locations of two clients from them and produces a single bit of result telling whether the clients are within each other’s proximity or not. Currently existing LBS require full trust from their clients; in order to use the service, clients have to disclose their locations in plain and trust that the service will not misuse them. Clamorous precedents of such misuse motivate the search for solutions which would ensure the privacy of client location.</p>
+<p>In this paper, we present CatNap, a novel cryptographic protocol to perform proximity testing in a privacy-preserving manner. We focus on Euclidean distance based matching: clients are considered to be in proximity if the Euclidean distance between them is below a chosen threshold value.
+The protocol involves two clients and two servers. The clients submit their location data to the servers, and then one of them retrieves the proximity testing result. Additionally, our protocol implements the “napping party” feature: the clients do not depend on each other’s presence to submit the data. This property is cricual to make proximity testing practical, because it allows clients to use the functionality without having to be simultaneously online.
+The CatNap achieves active security and allows any subset of parties to be corrupted as long as one of the two servers is honest. Unlike previous ad-hoc solutions, our protocol relies on a blackbox use of generic Multi-Party Computation (MPC) techniques. Importantly, the MPC building block employed in our protocol can be effortlessly replaced by future, more effcient implementations of the functionality, thus directly improving our performance. We provide a proof of concept implementation of our protocol using off-the-shelf MPC libraries and evaluate its performance in terms of computation and communication cost.</p>
 <p><strong>Keywords:</strong>
 Privacy, Proximity-Testing, Multiparty Computation, Active Security.</p>
 

@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Outsourcing MPC Precomputation for Location Privacy</title>
+    <title>Secure Cloud Storage with Joint Deduplication and Erasure Protection</title>
     <meta name="description" content="My personal webpage (mostly academic stuff)">
     <meta name="author" content='Elena Pagnin'>
 
@@ -67,23 +67,21 @@
 <div id="content">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
-    <h1>Outsourcing MPC Precomputation for Location Privacy</h1>
+    <h1>Secure Cloud Storage with Joint Deduplication and Erasure Protection</h1>
     <hr>
-    Authors: <i>I. Oleynikov, E. Pagnin, A. Sabelfeld</i> 
+    Authors: <i>R. Vestergaard, E. Pagnin, R. Kundu, and D. Lucani</i> 
     <br>
-    In: Location Privacy Workshop, 
+    In: IEEE International Conference on Cloud Computing, 
 	2022
 	<br>
 	Full Text: 
-	<a href="https://www.cse.chalmers.se/research/group/security/polar/polar-lpw-2022.pdf"><i class="fas fa-file"></i></a>
+	<a href=""><i class="fas fa-file"></i></a>
 	 
     <hr>
      <h3>Abstract</h3>
-    <p>Proximity testing is at the core of several Location-Based Services (LBS) offered by, e.g., Uber, Facebook, and BlaBlaCar, as it determines closeness to a target. Unfortunately, modern LBS demand not only that clients disclose their locations in plain, but also to trust that the services will not abuse this information. These requirements are unfounded as there are ways to perform proximity testing without revealing one’s location.
-We propose POLAR, a protocol that implements privacy-preserving proximity testing for LBS. POLAR is suitable for clients running mobile devices, and relies on a careful combination of three well-established multiparty computation protocols and lightweight cryptography. A point
-of originality is the inclusion of two servers into the proximity testing. The servers may aid multiple pairs of clients and contribute towards enhancing privacy, improving effciency, and reducing the running time of clients’ procedures.</p>
+    <p>This work proposes a novel design for secure cloud storage systems using a third party to meet three seemingly opposing demands: reduce storage requirements on the Cloud, protect against erasures (data loss), and maintain confidentiality of the data. More specifically, we achieve storage cost reductions using data deduplication without requiring system Users to trust the Cloud operates honestly. We analyze the security of our scheme against various types of rational, malicious adversaries that may collude with multiple parties and show that no novel sensitive information can be inferred, assuming random oracles and a high min-entropy data source. We also provide a mathematical analysis to characterize its potential for compression given the popularity of individual chunks of data and its overall erasure protection capabilities. In fact, we show that the storage cost of our scheme for a chunk with 𝑟 replicas is 𝑂(log(r)/r), while deduplication without security or reliability considerations is O(1/r), i.e., our added cost for providing reliability and security is only 𝑂(log(𝑟)). We provide a proof of concept implementation to simulate performance and verify our analytical results</p>
 <p><strong>Keywords:</strong>
-Privacy, Proximity-Testing, Multiparty Computation, Active Security.</p>
+Secure Storage, Generalized Data Deduplication, Erasure Protection.</p>
 
 </div>
 

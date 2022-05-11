@@ -6,13 +6,22 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure Cloud Storage with Joint Deduplication and Erasure Protection</title>
+      <link>https://epagnin.github.io/papers/2022-deer/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2022-deer/</guid>
+      <description>This work proposes a novel design for secure cloud storage systems using a third party to meet three seemingly opposing demands: reduce storage requirements on the Cloud, protect against erasures (data loss), and maintain confidentiality of the data. More specifically, we achieve storage cost reductions using data deduplication without requiring system Users to trust the Cloud operates honestly. We analyze the security of our scheme against various types of rational, malicious adversaries that may collude with multiple parties and show that no novel sensitive information can be inferred, assuming random oracles and a high min-entropy data source.</description>
+    </item>
+    
     <item>
       <title>CatNap: Practical and actively secure proximity testing with a napping party based on generic MPC techniques</title>
-      <link>https://epagnin.github.io/papers/2022-polar-copy/</link>
+      <link>https://epagnin.github.io/papers/2022-catnap/</link>
       <pubDate>Mon, 02 May 2022 14:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/papers/2022-polar-copy/</guid>
+      <guid>https://epagnin.github.io/papers/2022-catnap/</guid>
       <description>Proximity testing functionality is at the core of most LocationBased Services (LBS). In a nutshell, proximity testing takes the locations of two clients from them and produces a single bit of result telling whether the clients are within each other’s proximity or not. Currently existing LBS require full trust from their clients; in order to use the service, clients have to disclose their locations in plain and trust that the service will not misuse them.</description>
     </item>
     
