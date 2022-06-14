@@ -45,6 +45,17 @@ For several years I have used jekyll, but it started to get messy with the lates
     </item>
     
     <item>
+      <title>Interesting Readings</title>
+      <link>https://epagnin.github.io/posts/2022-05-12-readings/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
+      <description>The body of literature around cryptographic techniques and provable security is enormous. To help new-comers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
+. AnoA: A framework for analyzing anonymous communication protocols by Backes et al. In IEEE 26th Computer Security Foundations Symposium 2013 Jun 26 (pp. 163-178).
+This is a great paper to understand how to reason about and formalize security notions around anonymity in communication protocols.</description>
+    </item>
+    
+    <item>
       <title>Things you should know</title>
       <link>https://epagnin.github.io/posts/2020-04-27-phd-qa/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
