@@ -6,7 +6,16 @@
     <description>Recent content in tricks on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview Questions</title>
+      <link>https://epagnin.github.io/posts/2022-06-08-interview/</link>
+      <pubDate>Wed, 15 Jun 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-06-08-interview/</guid>
+      <description>If you&amp;rsquo;re preparing for an interview (either as interviewee or interviewer), this is a good link to check out! It&amp;rsquo;s essentially a bot that returns common hiring questions for faculty appointments within computer science. Here you get a pdf with a good pool of questions for practicing.</description>
+    </item>
+    
     <item>
       <title>4 LaTeX</title>
       <link>https://epagnin.github.io/posts/2020-04-27-latex/</link>

@@ -6,7 +6,18 @@
     <description>Recent content in phds on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/phds/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/phds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to determine quality of papers</title>
+      <link>https://epagnin.github.io/posts/2022-07-01-quality/</link>
+      <pubDate>Fri, 01 Jul 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-07-01-quality/</guid>
+      <description>How to determine quality of papers There are different metrics to measure &amp;lsquo;how good&amp;rsquo; a paper is. None is perfect or completely accurate. The best way to judge is personal, and you will develop your own preferences and &amp;lsquo;qualities indicators&amp;rsquo; over time.
+The San Francisco Declaration on Research Assessment (DORA) opens with this statement:
+ There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties.</description>
+    </item>
+    
     <item>
       <title>About this website</title>
       <link>https://epagnin.github.io/posts/2020-04-website/</link>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>How to determine quality of papers</title>
+    <meta name="description" content="My personal webpage (mostly academic stuff)">
+    <meta name="author" content='Elena Pagnin'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+
+    
+        <link rel="icon" type="image/ico" href="https://epagnin.github.io/favicon.ico">
+    
+
+    
+        
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://epagnin.github.io" title="Elena Pagnin">
+          
+          Elena Pagnin
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/research" title="Research">
+                        Research
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/posts/" title="Misc">
+                        Misc
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/teaching" title="Teaching">
+                        Teaching
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/deadlines/" title="Deadlines">
+                        Deadlines
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+    <h1 id="how-to-determine-quality-of-papers">How to determine quality of papers</h1>
+<p>There are different metrics to <em>measure</em> &lsquo;how good&rsquo; a paper is. None is perfect or completely accurate. The best way to judge is personal, and you will develop your own preferences and &lsquo;qualities indicators&rsquo; over time.</p>
+<p>The San Francisco Declaration on Research Assessment (<a href="https://sfdora.org/read/">DORA</a>) opens with this statement:</p>
+<blockquote>
+<p><em>There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties.</em></p>
+</blockquote>
+<p>This is why some organizations (listed blow) provide rankings that are meant to evaluate research in a fair way according to some criteria. Unfotrnatly a single criteria cannot measure and assess quality in a coherent way across different disciplines, communities, eras, topics.</p>
+<h2 id="common-rankings-for-references">Common rankings for references</h2>
+<p>For starters, you can follow guidelines about the quality of the venue where a work is accepted for publications.</p>
+<ul>
+<li>
+<p><strong>CORE ranking:</strong>
+<a href="http://portal.core.edu.au/conf-ranks/?search=&amp;by=all&amp;source=CORE2021&amp;sort=atitle&amp;page=1">COmparing Research &amp; Education</a> (Australian Conference Portal Ranking) follows <a href="https://drive.google.com/file/d/1zIraYjVQZLlRFiR3g9RSWKCCK4Hv-Ide/view">DORA criteria</a> and is my personal favoirite (though it does not include <em>many nice</em> venues we have within cryptography)</p>
+</li>
+<li>
+<p><strong>Google Scholar:</strong> has a <a href="https://scholar.google.com/citations?view_op=top_venues&amp;hl=en&amp;vq=eng_computersecuritycryptography">ranking of security conferences</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+</li>
+<li>
+<p>I am not aware of an official ranking for venues within cryptography (if you are, please let me know!), and especially within cryptographic protocols and applications. So I made a <a href="/deadlines">collection of venues</a> I like and provide rakings according to my personal experience + CORE (when available).</p>
+</li>
+</ul>
+<h2 id="common-metrics">Common metrics</h2>
+<p>Keep in mind that people like simplistic statements. This means that they will pick a metric and use it to compare people/works and assess quality of research. However, no matter what matric you choose, it will not be compeltey accurate and fair (especially if you attempt to compare researchers/papers from neighbouring fields). This is because any metric will compress a complex, multi-dimensional data (e.g., venue quality, number of citations, number of total publications, number of authors, reviewers' expertise&hellip;) into a single value, which of course simplifies things, but at the same time loses important factors.</p>
+<ul>
+<li><strong>number of publications</strong>: the more the marrier! But keep in mind that if having <em>too many</em> publications<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> is an index of either geniality, or (most commonly) that little or no contribution comes from that author in each work. Too little publications (esepcially per-year publications) may mean unproductivity or simply a bad luck with reviewer 2 😑</li>
+</ul>
+<ul>
+<li>
+<p><strong>number of citations</strong>: intuitively, the more one paper is cited, the more it is known in the community. One may wish this would imply that higly cited works/researchers are the <em>strogest</em>, but keep in mind that actually many most cited papers are surveys, systematic organization of knowledge, <em>broken constructions</em> and <em>attacks</em>.</p>
+</li>
+<li>
+<p><strong>h-index</strong>: is defined as the maximum value of <code>h</code> such that the given author/journal has published at least <code>h</code> papers that have each been cited at least <code>h</code> times. The index is designed to improve upon simpler measures such as the total number of citations or publications. One&rsquo;s h-index is important &ldquo;in general&rdquo; but it does not always accurately capture the quality of one&rsquo;s research.</p>
+</li>
+<li>
+<p><strong>h-index</strong> for events: attempts to transfer the quality/impact of the event (conference / journal) to the individuals publishing there. Keep in mind that h-indexes tend to indicate the popularity of a topics rather than the quality of a work. Moreover h-indexes enforc positive loops: if something goes up in ranking, then more poeple are willing to send their good work there, which improves the quality of works accepted, and in turns increases the h-index value.</p>
+</li>
+<li>
+<p><strong>i10-Index</strong> is defined as the number of publications with at least 10 citations.<br>
+This very simple measure is only used by Google Scholar to help gauge the productivity of researchers.</p>
+</li>
+<li>
+<p><strong>impact factor</strong> (IF): measures the frequency with which the average article in a journal has been cited in a particular year.</p>
+</li>
+<li>
+<p><strong>corner cases</strong>: in cryptography, core theoretical results are often of higher quality than many applied secuity papers. But doing theory is hard so you don&rsquo;t see as much follow up work on that (and thus, less citations and publications of this nature are spread across years). Sometimes a paper becomes &lsquo;popular&rsquo; just because is was written at the right time and got momentum (citation/visibility) quickly.</p>
+</li>
+</ul>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Google Scholar ranking is based on h-index and is skewed towards security and applications rather than core crypto. As of now (July 2022), I do not agree much with this ranking for my own research field.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>How many is <em>too many</em> publications, depends on one&rsquo;s field of research and career stage. Within crypography, I&rsquo;d say that for PhD students a good average is 1-2 papers / year, for Post Docs is 2-4/year, and for Professors 2-5/years.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    <hr>
+    <div class="container text-center">
+        
+    </div>
+    
+</div>
+</body>
+</html>
