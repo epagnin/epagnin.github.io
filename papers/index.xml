@@ -6,7 +6,16 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bifrost: Secure, Scalable and Efficient File Sharing System Using Dual Deduplication</title>
+      <link>https://epagnin.github.io/papers/2022-bifrost/</link>
+      <pubDate>Thu, 01 Sep 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2022-bifrost/</guid>
+      <description>TWe consider the problem of sharing sensitive files across users while relying on a common, untrusted third-party, e.g., a Cloud Storage Provider (CSP). Although users can rely on a secure peer-to-peer (P2P) channel for file sharing, this introduces potential delay on the data transfer and requires the sender to remain connected while the transfer process occurs. Instead, users can upload information about the file on a common CSP and share only the essential information that enables the receiver to recover the original file.</description>
+    </item>
+    
     <item>
       <title>Secure Cloud Storage with Joint Deduplication and Erasure Protection</title>
       <link>https://epagnin.github.io/papers/2022-deer/</link>

@@ -89,6 +89,25 @@
     </item>
     
     <item>
+      <title>Bifrost: Secure, Scalable and Efficient File Sharing System Using Dual Deduplication</title>
+      <link>https://epagnin.github.io/papers/2022-bifrost/</link>
+      <pubDate>Thu, 01 Sep 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2022-bifrost/</guid>
+      <description>TWe consider the problem of sharing sensitive files across users while relying on a common, untrusted third-party, e.g., a Cloud Storage Provider (CSP). Although users can rely on a secure peer-to-peer (P2P) channel for file sharing, this introduces potential delay on the data transfer and requires the sender to remain connected while the transfer process occurs. Instead, users can upload information about the file on a common CSP and share only the essential information that enables the receiver to recover the original file.</description>
+    </item>
+    
+    <item>
+      <title>How does the peer-review system work?</title>
+      <link>https://epagnin.github.io/posts/2022-09-01-review/</link>
+      <pubDate>Thu, 01 Sep 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-09-01-review/</guid>
+      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3 and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&#39; opinions and possibly a sanity check by the general chair of the conference.
+What do reviewers look for in a paper?</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/indocrypt/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>

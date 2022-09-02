@@ -6,7 +6,17 @@
     <description>Recent content in Miscellanea on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does the peer-review system work?</title>
+      <link>https://epagnin.github.io/posts/2022-09-01-review/</link>
+      <pubDate>Thu, 01 Sep 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-09-01-review/</guid>
+      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3 and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&#39; opinions and possibly a sanity check by the general chair of the conference.
+What do reviewers look for in a paper?</description>
+    </item>
+    
     <item>
       <title>How to determine quality of papers</title>
       <link>https://epagnin.github.io/posts/2022-07-01-quality/</link>
