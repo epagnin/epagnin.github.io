@@ -103,7 +103,7 @@
       <pubDate>Thu, 01 Sep 2022 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-09-01-review/</guid>
-      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3 and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&#39; opinions and possibly a sanity check by the general chair of the conference.
+      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3 and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.
 What do reviewers look for in a paper?</description>
     </item>
     
@@ -169,7 +169,7 @@ What do reviewers look for in a paper?</description>
       <guid>https://epagnin.github.io/posts/2022-07-01-quality/</guid>
       <description>How to determine quality of papers There are different metrics to measure &amp;lsquo;how good&amp;rsquo; a paper is. None is perfect or completely accurate. The best way to judge is personal, and you will develop your own preferences and &amp;lsquo;qualities indicators&amp;rsquo; over time.
 The San Francisco Declaration on Research Assessment (DORA) opens with this statement:
- There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties.</description>
+There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties.</description>
     </item>
     
     <item>
@@ -386,16 +386,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX  Detexify automatic recognition of handwritten symbols  </description>
-    </item>
-    
-    <item>
-      <title>Cute Links</title>
-      <link>https://epagnin.github.io/posts/2022-04-08-links/</link>
-      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
-      <description>When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols </description>
     </item>
     
     <item>
@@ -419,6 +410,18 @@ This is a great paper to understand how to reason about and formalize security n
     </item>
     
     <item>
+      <title>Resources for presentations</title>
+      <link>https://epagnin.github.io/posts/2022-04-08-links/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
+      <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pxfuel, pikwizard.
+Here&amp;rsquo;s my go-to place for free clipart
+My favorite place
+Tools to help you visualize size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
+    </item>
+    
+    <item>
       <title>Things you should know</title>
       <link>https://epagnin.github.io/posts/2020-04-27-phd-qa/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
@@ -434,7 +437,7 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2021-10-11-teaching/</guid>
-      <description>Tipps for Good Teaching Practice As part of your PhD education at LTH, you will take some pedagogical courses regarding teaching, learning and how to evaluate students&#39; learning. But when it comes to it, how do you structure a lecture? Here and here you can find a list of clear and valuable pointers to keep in mind when preparing yourself to this task.</description>
+      <description>Tipps for Good Teaching Practice As part of your PhD education at LTH, you will take some pedagogical courses regarding teaching, learning and how to evaluate students&amp;rsquo; learning. But when it comes to it, how do you structure a lecture? Here and here you can find a list of clear and valuable pointers to keep in mind when preparing yourself to this task.</description>
     </item>
     
     <item>
@@ -644,8 +647,7 @@ The HB+ protocol performs device authentication based on the learning parity wit
       
       <guid>https://epagnin.github.io/cv/</guid>
       <description>I embedded a current version of my CV below (you might need to wait for a few seconds before it appears, the pdf embedding does not work on mobile devices).
-You can also download the PDF here
- </description>
+You can also download the PDF here</description>
     </item>
     
     <item>
