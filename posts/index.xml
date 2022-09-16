@@ -66,22 +66,32 @@ For several years I have used jekyll, but it started to get messy with the lates
     </item>
     
     <item>
-      <title>Interesting Readings</title>
+      <title>Interesting Readings (Research Articles)</title>
       <link>https://epagnin.github.io/posts/2022-05-12-readings/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
       <description>The body of literature around cryptographic techniques and provable security is enormous. To help new-comers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
-. AnoA: A framework for analyzing anonymous communication protocols by Backes et al. In IEEE 26th Computer Security Foundations Symposium 2013 Jun 26 (pp. 163-178).
-This is a great paper to understand how to reason about and formalize security notions around anonymity in communication protocols.</description>
+AnoA: A framework for analyzing anonymous communication protocols by Backes et al. In IEEE 26th Computer Security Foundations Symposium 2013 Jun 26 (pp. 163-178). This is a great paper to understand how to reason about and formalize security notions around anonymity in communication protocols.</description>
+    </item>
+    
+    <item>
+      <title>Nice Books</title>
+      <link>https://epagnin.github.io/posts/2022-09-16-books/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-09-16-books/</guid>
+      <description>📙 Captivate: The Science of Succeeding with People by Vanessa Van Edwards
+📙 Develop Your Presentation Skills: How to Inspire and Inform with Clarity and Confidence by Theo Theobald
+📙 From Research to Manuscript A Guide to Scientific Writing by Michael Jay Katz</description>
     </item>
     
     <item>
       <title>Resources for presentations</title>
-      <link>https://epagnin.github.io/posts/2022-04-08-links/</link>
+      <link>https://epagnin.github.io/posts/2022-04-08-presentations/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
+      <guid>https://epagnin.github.io/posts/2022-04-08-presentations/</guid>
       <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pxfuel, pikwizard.
 Here&amp;rsquo;s my go-to place for free clipart
 My favorite place
@@ -105,6 +115,15 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
       
       <guid>https://epagnin.github.io/posts/2021-10-11-teaching/</guid>
       <description>Tipps for Good Teaching Practice As part of your PhD education at LTH, you will take some pedagogical courses regarding teaching, learning and how to evaluate students&amp;rsquo; learning. But when it comes to it, how do you structure a lecture? Here and here you can find a list of clear and valuable pointers to keep in mind when preparing yourself to this task.</description>
+    </item>
+    
+    <item>
+      <title>Useful Links</title>
+      <link>https://epagnin.github.io/posts/2022-04-08-links/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
+      <description>Efficiently decide on a meeting date and time When2meet lets people fill in their availability in a calendar form, instead of flooding people with numerous opions. What was the Latex command for that symbol? Detexify automatic recognition of handwritten symbols Good English Ngram Viewer is a useful tool that checks how frequent a certain word, name or expression (sequence of few words) is common in the English literature. It is a simple way to check correctness of words bending and preposition for non-native speakers.</description>
     </item>
     
     <item>
