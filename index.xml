@@ -456,7 +456,7 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
-      <description>Efficiently decide on a meeting date and time When2meet lets people fill in their availability in a calendar form, instead of flooding people with numerous opions. What was the Latex command for that symbol? Detexify automatic recognition of handwritten symbols Good English Ngram Viewer is a useful tool that checks how frequent a certain word, name or expression (sequence of few words) is common in the English literature. It is a simple way to check correctness of words bending and preposition for non-native speakers.</description>
+      <description>Efficiently decide on a meeting date and time When2meet lets people fill in their availability in a calendar form, instead of flooding people with numerous options. What was the Latex command for that symbol? Detexify automatic recognition of handwritten symbols Good English Ngram Viewer is a useful tool that checks how frequent a certain word, name or expression (sequence of few words) is common in the English literature. It is a simple way to check correctness of words bending and preposition for non-native speakers.</description>
     </item>
     
     <item>
@@ -651,6 +651,15 @@ The HB+ protocol performs device authentication based on the learning parity wit
     </item>
     
     <item>
+      <title>CRYSPY Lab</title>
+      <link>https://epagnin.github.io/cryspy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/cryspy/</guid>
+      <description>CRYSPY Lab (CRYptography Security and PrivacY) this page is under construction</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>https://epagnin.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -686,7 +695,7 @@ I am actively working on: multi-key and homomorphic cryptosystems, signatures wi
       
       <guid>https://epagnin.github.io/teaching/</guid>
       <description>My Teaching Ethics I believe that the main factors for great learning outcomes are: trust in the teacher and engagement of the students. When interacting with students my philosophy is to do it all with enthusiasm, be available and remember that we are all learning from each other.
-Master Thesis Are you genuinely interested in cryptographic primitives and their applications to the real world? Contact me for doing a master thesis on this topic!</description>
+At Chalmers, I am teaching the Cryptography course (TDA352/DIT250) for Chalmers and Göteborg University students. The course covers symmetric key cryptographic techniques (hash functions, block ciphers, MACs, AEAD); public key cryptography (RSA, ElGamal, Diffie-Hellman Key Exchange, Digital Signatures); Cryptographic protocols (Signal, Commitment Schemes, Zero Knowledge proofs, Sigma Protocols).</description>
     </item>
     
   </channel>
