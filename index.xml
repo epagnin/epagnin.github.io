@@ -696,7 +696,7 @@ I am actively working on: multi-key and homomorphic cryptosystems, signatures wi
       
       <guid>https://epagnin.github.io/teaching/</guid>
       <description>My Teaching Ethics I believe that the main factors for great learning outcomes are: trust in the teacher and engagement of the students. When interacting with students my philosophy is to do it all with enthusiasm, be available and remember that we are all learning from each other.
-At Chalmers, I am teaching the Cryptography course (TDA352/DIT250) for Chalmers and Göteborg University students. The course covers symmetric key cryptographic techniques (hash functions, block ciphers, MACs, AEAD); public key cryptography (RSA, ElGamal, Diffie-Hellman Key Exchange, Digital Signatures); Cryptographic protocols (Signal, Commitment Schemes, Zero Knowledge proofs, Sigma Protocols).</description>
+At Chalmers, I am teaching the Cryptography course (TDA352/DIT250) for students at Chalmers and Göteborg University. The course covers symmetric key cryptographic techniques (hash functions, block ciphers, MACs, AEAD); public key cryptography (RSA, ElGamal, Diffie-Hellman Key Exchange, Digital Signatures); Cryptographic protocols (Signal, Commitment Schemes, Zero Knowledge proofs, Sigma Protocols).</description>
     </item>
     
   </channel>
