@@ -6,7 +6,16 @@
     <description>Recent content in Upcoming Submission Deadlines on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/deadlines/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/deadlines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/esorics2/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/esorics2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/pets4/</link>
@@ -18,10 +27,55 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/crypto/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/acisps/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acisps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/itc/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/itc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/esorics1/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/acns2/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/acns2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/ccs2/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ccs2/</guid>
       <description></description>
     </item>
     
@@ -40,6 +94,15 @@
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/pets3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pkc/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pkc/</guid>
       <description></description>
     </item>
     
@@ -67,15 +130,6 @@
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pkc/</link>
-      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pkc/</guid>
       <description></description>
     </item>
     
@@ -171,10 +225,10 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/esorics2/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <link>https://epagnin.github.io/deadlines/tcc/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/deadlines/esorics2/</guid>
+      <guid>https://epagnin.github.io/deadlines/tcc/</guid>
       <description></description>
     </item>
     
@@ -184,15 +238,6 @@
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/pqc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/ccs2/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ccs2/</guid>
       <description></description>
     </item>
     
@@ -216,33 +261,6 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/crypto/</link>
-      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/acisps/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/acisps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/esorics1/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/ccs1/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -261,28 +279,10 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/tcc/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/tcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/latincrypt/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/latincrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/itc/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/itc/</guid>
       <description></description>
     </item>
     
