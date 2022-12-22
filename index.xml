@@ -497,6 +497,15 @@ If you are working with me, chances are that we stumble upon some cryptographic 
     </item>
     
     <item>
+      <title>What&#39;s the next deadline???</title>
+      <link>https://epagnin.github.io/posts/2021-01-01-deadlines/</link>
+      <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2021-01-01-deadlines/</guid>
+      <description>Check out my selection of deadliens for conference on stuff I like to do research on (sporadically updated).</description>
+    </item>
+    
+    <item>
       <title>Where are you Bob? Privacy-Preserving Proximity Testing with a Napping Party</title>
       <link>https://epagnin.github.io/papers/2020-olic/</link>
       <pubDate>Wed, 16 Sep 2020 10:00:00 +0000</pubDate>
@@ -651,15 +660,6 @@ The HB+ protocol performs device authentication based on the learning parity wit
     </item>
     
     <item>
-      <title>CRYSPY Lab</title>
-      <link>https://epagnin.github.io/cryspy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/cryspy/</guid>
-      <description>CRYSPY Lab (CRYptography Security and PrivacY) this page is under construction</description>
-    </item>
-    
-    <item>
       <title>CV</title>
       <link>https://epagnin.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -685,8 +685,8 @@ Her research is focused on cryptography and security, with a special interest fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/research/</guid>
-      <description>My research interests lie in the area of homomorphic cryptographic primitives, data authentication, and user privacy. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
-I am actively working on: multi-key and homomorphic cryptosystems, signatures with advanced properties, private &amp;amp; compact digital storage solutions, verifiable computation, and privacy-preserving location proximity testing. Previously, I also worked on the Signal protocol, Biometric Authentication and Distance-Bounding Protocols.</description>
+      <description>Here&amp;rsquo;s a link to to my CV and full list of publications with pointers to open access full-texts versions of my works and video recordings when available. Alternatively, visit dblp, or GoogleScholar.
+The Research I Like My research interests lie in the area of homomorphic cryptographic primitives, data authentication, and user privacy. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.</description>
     </item>
     
     <item>
@@ -696,7 +696,7 @@ I am actively working on: multi-key and homomorphic cryptosystems, signatures wi
       
       <guid>https://epagnin.github.io/teaching/</guid>
       <description>My Teaching Ethics I believe that the main factors for great learning outcomes are: trust in the teacher and engagement of the students. When interacting with students my philosophy is to do it all with enthusiasm, be available and remember that we are all learning from each other.
-At Chalmers, I am teaching the Cryptography course (TDA352/DIT250) for students at Chalmers and Göteborg University. The course covers symmetric key cryptographic techniques (hash functions, block ciphers, MACs, AEAD); public key cryptography (RSA, ElGamal, Diffie-Hellman Key Exchange, Digital Signatures); Cryptographic protocols (Signal, Commitment Schemes, Zero Knowledge proofs, Sigma Protocols).</description>
+Ongoing Courses Since fall 2022, I am teaching the CRYPTOGRAPHY course (TDA352/DIT250) for students at Chalmers and Göteborg University. The course is organized in three modules:</description>
     </item>
     
   </channel>

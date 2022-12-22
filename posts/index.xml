@@ -145,5 +145,14 @@ If you are working with me, chances are that we stumble upon some cryptographic 
       <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched a initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this serie of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic carier.</description>
     </item>
     
+    <item>
+      <title>What&#39;s the next deadline???</title>
+      <link>https://epagnin.github.io/posts/2021-01-01-deadlines/</link>
+      <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2021-01-01-deadlines/</guid>
+      <description>Check out my selection of deadliens for conference on stuff I like to do research on (sporadically updated).</description>
+    </item>
+    
   </channel>
 </rss>
