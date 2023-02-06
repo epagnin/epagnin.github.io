@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>PAPR: Publicly Auditable Privacy Revocation for Anonymous Credentials</title>
+      <link>https://epagnin.github.io/papers/2023-papr/</link>
+      <pubDate>Wed, 01 Feb 2023 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2023-papr/</guid>
+      <description>We study the notion of anonymous credentials with Publicly Auditable Privacy Revocation (PAPR). PAPR credentials simultaneously provide conditional user privacy and auditable privacy revocation. The first property implies that users keep their identity private when authenticating unless and until an appointed authority requests to revoke this privacy, retroactively. The second property enforces that auditors can verify whether or not this authority has revoked privacy from an issued credential (i.e. learned the identity of the user who owns that credential), holding the authority accountable.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/esorics1/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
@@ -426,6 +435,16 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on informati
       <description>📙 Captivate: The Science of Succeeding with People by Vanessa Van Edwards
 📙 Develop Your Presentation Skills: How to Inspire and Inform with Clarity and Confidence by Theo Theobald
 📙 From Research to Manuscript A Guide to Scientific Writing by Michael Jay Katz</description>
+    </item>
+    
+    <item>
+      <title>Nice Books</title>
+      <link>https://epagnin.github.io/posts/2023-02-02-pods/</link>
+      <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2023-02-02-pods/</guid>
+      <description>List of nice podcast about Cryptography and Real world Security 🎧 Darknet Diaries, really interesting interviews and stories about several famous event and people (enjoyable even if you are not tech savvy).
+🎧 Cryptography FM, interviews and discussions about recent progresses in cryptography. Particularly relevant for PhD students and people that study and work with cryptography.</description>
     </item>
     
     <item>
