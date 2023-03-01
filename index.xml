@@ -404,7 +404,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is install, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal ) </description>
     </item>
     
     <item>
@@ -456,7 +456,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on informati
       <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pxfuel, pikwizard.
 Here&amp;rsquo;s my go-to place for free clipart
 My favorite place
-Tools to help you visualize size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
+Tools to help you visualize the size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
     </item>
     
     <item>
@@ -705,8 +705,9 @@ You can also download the PDF here</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/bio/</guid>
-      <description>Short Bio Elena Pagnin is an Assistant Professor at Chalmers University of Technology (Gothenburg, Sweden) since 2022. She holds a PhD Degree in Computer Science (Chalmers, 2018), specifically on Cryptography and Data Security.
-Her research is focused on cryptography and security, with a special interest for homomorphic cryptosystems, data authentication and user privacy. Her motto is: det är lätt att vara efterklok (it&amp;rsquo;s easy to be wise in hindsight). For more information visit: https://epagnin.</description>
+      <description>Short Bio Elena Pagnin is an Assistant Professor at Chalmers University of Technology (Gothenburg, Sweden) since 2022.
+Her research is focused on the design of new cryptographic protocols and public key cryptography. She is interested in homomorphic cryptosystems, data authentication and user privacy. Her motto is: det är lätt att vara efterklok (it&amp;rsquo;s easy to be wise in hindsight). For more information visit: https://epagnin.github.io
+Professional Biography Elena Pagnin is an assistant professor at Chalmers University of Technology (Gothenburg, Sweden) since 2022.</description>
     </item>
     
     <item>

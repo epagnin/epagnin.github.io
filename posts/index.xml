@@ -53,7 +53,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is install, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal ) </description>
     </item>
     
     <item>
@@ -105,7 +105,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on informati
       <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pxfuel, pikwizard.
 Here&amp;rsquo;s my go-to place for free clipart
 My favorite place
-Tools to help you visualize size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
+Tools to help you visualize the size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
     </item>
     
     <item>
