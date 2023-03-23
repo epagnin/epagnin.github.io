@@ -13,7 +13,7 @@
       <pubDate>Thu, 01 Sep 2022 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-09-01-review/</guid>
-      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3 and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.
+      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3, and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.
 What do reviewers look for in a paper?</description>
     </item>
     
@@ -34,7 +34,7 @@ There is a pressing need to improve the ways in which the output of scientific r
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-git/</guid>
-      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital data you log in it. When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert back in time to restore previous versions.</description>
+      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital data you log in it. When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert in time to restore previous versions. As a PhD student, if you want to do research with me, knowing how to navigate git is a prerequisite.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ There is a pressing need to improve the ways in which the output of scientific r
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
-      <description>The body of literature around cryptographic techniques and provable security is enormous. To help new-comers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
+      <description>The body of literature around cryptographic techniques and provable security is enormous. To help newcomers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
 New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on information theory, 1978 This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
     </item>
     
@@ -53,7 +53,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on informati
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2023-02-02-pods/</guid>
-      <description>List of nice podcast about Cryptography and Real world Security 🎧 Darknet Diaries, really interesting interviews and stories about several famous event and people (enjoyable even if you are not tech savvy).
+      <description>List of nice podcast about Cryptography and Real world Security 🎧 Darknet Diaries, fascinating interviews and stories about several famous event and people (enjoyable even if you are not tech-savvy).
 🎧 Cryptography FM, interviews and discussions about recent progresses in cryptography. Particularly relevant for PhD students and people that study and work with cryptography.</description>
     </item>
     
@@ -104,7 +104,7 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
       
       <guid>https://epagnin.github.io/posts/2022-01-20-crypto/</guid>
       <description>What is Cryptography? Here&amp;rsquo;s a quick video explaining the magic you can do with cryptography.
-If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalised and how to reason about security model, attackers and proofs.</description>
+If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalized and how to reason about security model, attackers and proofs.</description>
     </item>
     
     <item>
@@ -113,7 +113,7 @@ If you are working with me, chances are that we stumble upon some cryptographic 
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2021-07-24-mentoring/</guid>
-      <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched a initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this serie of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic carier.</description>
+      <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched an initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this series of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic career.</description>
     </item>
     
     <item>
@@ -122,7 +122,7 @@ If you are working with me, chances are that we stumble upon some cryptographic 
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2023-02-10-workingwithme/</guid>
-      <description>Meet me, and my research projects 🎬 I&amp;rsquo;m a Cryptographer, I&amp;rsquo;m payed to be paranoid
+      <description>Meet me, and my research projects 🎬 I&amp;rsquo;m a Cryptographer, I&amp;rsquo;m paid to be paranoid
 🎬 Future-Oriented Research: “Enhancing Data Authentication”
 How does it feel to be a PhD student at Chalmers? 🎬 Interview to a first year PhD student</description>
     </item>
@@ -133,7 +133,7 @@ How does it feel to be a PhD student at Chalmers? 🎬 Interview to a first year
       <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2021-01-01-deadlines/</guid>
-      <description>Check out my selection of deadliens for conference on stuff I like to do research on (sporadically updated).</description>
+      <description>Check out my selection of deadlines for conference on stuff I like to do research on (sporadically updated).</description>
     </item>
     
   </channel>

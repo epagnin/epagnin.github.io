@@ -220,7 +220,7 @@
       <pubDate>Thu, 01 Sep 2022 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-09-01-review/</guid>
-      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3 and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.
+      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3, and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.
 What do reviewers look for in a paper?</description>
     </item>
     
@@ -404,7 +404,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is install, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal ) </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) </description>
     </item>
     
     <item>
@@ -413,7 +413,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-git/</guid>
-      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital data you log in it. When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert back in time to restore previous versions.</description>
+      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital data you log in it. When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert in time to restore previous versions. As a PhD student, if you want to do research with me, knowing how to navigate git is a prerequisite.</description>
     </item>
     
     <item>
@@ -422,7 +422,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
-      <description>The body of literature around cryptographic techniques and provable security is enormous. To help new-comers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
+      <description>The body of literature around cryptographic techniques and provable security is enormous. To help newcomers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
 New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on information theory, 1978 This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
     </item>
     
@@ -443,7 +443,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on informati
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2023-02-02-pods/</guid>
-      <description>List of nice podcast about Cryptography and Real world Security 🎧 Darknet Diaries, really interesting interviews and stories about several famous event and people (enjoyable even if you are not tech savvy).
+      <description>List of nice podcast about Cryptography and Real world Security 🎧 Darknet Diaries, fascinating interviews and stories about several famous event and people (enjoyable even if you are not tech-savvy).
 🎧 Cryptography FM, interviews and discussions about recent progresses in cryptography. Particularly relevant for PhD students and people that study and work with cryptography.</description>
     </item>
     
@@ -494,7 +494,7 @@ Q: Where can I look for papers to read and study? A: In the beginning of your Ph
       
       <guid>https://epagnin.github.io/posts/2022-01-20-crypto/</guid>
       <description>What is Cryptography? Here&amp;rsquo;s a quick video explaining the magic you can do with cryptography.
-If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalised and how to reason about security model, attackers and proofs.</description>
+If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalized and how to reason about security model, attackers and proofs.</description>
     </item>
     
     <item>
@@ -503,7 +503,7 @@ If you are working with me, chances are that we stumble upon some cryptographic 
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2021-07-24-mentoring/</guid>
-      <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched a initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this serie of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic carier.</description>
+      <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched an initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this series of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic career.</description>
     </item>
     
     <item>
@@ -512,7 +512,7 @@ If you are working with me, chances are that we stumble upon some cryptographic 
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2023-02-10-workingwithme/</guid>
-      <description>Meet me, and my research projects 🎬 I&amp;rsquo;m a Cryptographer, I&amp;rsquo;m payed to be paranoid
+      <description>Meet me, and my research projects 🎬 I&amp;rsquo;m a Cryptographer, I&amp;rsquo;m paid to be paranoid
 🎬 Future-Oriented Research: “Enhancing Data Authentication”
 How does it feel to be a PhD student at Chalmers? 🎬 Interview to a first year PhD student</description>
     </item>
@@ -532,7 +532,7 @@ How does it feel to be a PhD student at Chalmers? 🎬 Interview to a first year
       <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2021-01-01-deadlines/</guid>
-      <description>Check out my selection of deadliens for conference on stuff I like to do research on (sporadically updated).</description>
+      <description>Check out my selection of deadlines for conference on stuff I like to do research on (sporadically updated).</description>
     </item>
     
     <item>
@@ -690,6 +690,16 @@ The HB+ protocol performs device authentication based on the learning parity wit
     </item>
     
     <item>
+      <title>About the Cryptography Course TDA352/DIT250</title>
+      <link>https://epagnin.github.io/cryptocourse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/cryptocourse/</guid>
+      <description>Cryptography Course TDA352/DIT250 - 7.5 credits For official and updated material please refer to the course page on Canvas. This page collects the first draft of the course material (run in the fall 2022). I share the material with the intention that it serves as resource for:
+People willing to learn, but not having the possibility to access Chalmers&amp;rsquo;s official interfaces. Teaching staff searching for inspiration. If you re-use part of this material, I would appreciate you let me know it and in case that you mention/credit my work.</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>https://epagnin.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -715,8 +725,9 @@ Professional Biography Elena Pagnin is an assistant professor at Chalmers Univer
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/research/</guid>
-      <description>Here&amp;rsquo;s a link to to my CV and full list of publications with pointers to open access full-texts versions of my works and video recordings when available. Alternatively, visit dblp, or GoogleScholar.
-The Research I Like My research interests lie in the area of homomorphic cryptographic primitives, data authentication, and user privacy. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.</description>
+      <description>Here&amp;rsquo;s a link to my CV and full list of publications with pointers to open access full-texts versions of my works and video recordings when available. Alternatively, visit dblp, or GoogleScholar.
+The Research I Like My research interests lie in the area of homomorphic cryptographic primitives, data authentication, and user privacy. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
+I am actively working on: multi-key and homomorphic cryptosystems, signatures with advanced properties, private &amp;amp; compact digital storage solutions, verifiable computation, and privacy-enhancing technologies.</description>
     </item>
     
     <item>
