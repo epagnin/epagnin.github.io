@@ -211,7 +211,7 @@
       <pubDate>Thu, 01 Sep 2022 14:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/papers/2022-bifrost/</guid>
-      <description>TWe consider the problem of sharing sensitive files across users while relying on a common, untrusted third-party, e.g., a Cloud Storage Provider (CSP). Although users can rely on a secure peer-to-peer (P2P) channel for file sharing, this introduces potential delay on the data transfer and requires the sender to remain connected while the transfer process occurs. Instead, users can upload information about the file on a common CSP and share only the essential information that enables the receiver to recover the original file.</description>
+      <description>We consider the problem of sharing sensitive files across users while relying on a common, untrusted third-party, e.g., a Cloud Storage Provider (CSP). Although users can rely on a secure peer-to-peer (P2P) channel for file sharing, this introduces potential delay on the data transfer and requires the sender to remain connected while the transfer process occurs. Instead, users can upload information about the file on a common CSP and share only the essential information that enables the receiver to recover the original file.</description>
     </item>
     
     <item>
@@ -454,7 +454,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on informati
       
       <guid>https://epagnin.github.io/posts/2022-04-08-presentations/</guid>
       <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pxfuel, pikwizard.
-Here&amp;rsquo;s my go-to place for free clipart
+Here&amp;rsquo;s my go-to place for free clipart, and icons
 My favorite place
 Tools to help you visualize the size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
     </item>
