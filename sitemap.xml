@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://epagnin.github.io/deadlines/pets4/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/ieee-sp3/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <loc>https://epagnin.github.io/deadlines/pets2/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/ieee-sp2/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/nordsec/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/pets1/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/esorics2/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
@@ -20,17 +32,32 @@
     <loc>https://epagnin.github.io/deadlines/latincrypt/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://epagnin.github.io/deadlines/sac/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/ccs2/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/posts/2023-02-10-workingwithme-copy/</loc>
+    <lastmod>2023-04-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/categories/</loc>
+    <lastmod>2023-04-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/posts/</loc>
+    <lastmod>2023-04-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/categories/phds/</loc>
+    <lastmod>2023-04-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/pqc/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/ieee-sp1/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/provsec/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/pets4/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/crypto/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
@@ -59,6 +86,9 @@
     <loc>https://epagnin.github.io/deadlines/pets3/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://epagnin.github.io/deadlines/stoc/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/pkc/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -80,29 +110,11 @@
     <loc>https://epagnin.github.io/papers/2022-bifrost/</loc>
     <lastmod>2022-09-01T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/categories/</loc>
-    <lastmod>2022-09-01T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://epagnin.github.io/posts/2022-09-01-review/</loc>
-    <lastmod>2022-09-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/posts/</loc>
-    <lastmod>2022-09-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/categories/phds/</loc>
     <lastmod>2022-09-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/indocrypt/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/space/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/pets2/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/nordsec/</loc>
-    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/posts/2022-07-01-quality/</loc>
     <lastmod>2022-07-01T10:00:00+00:00</lastmod>
@@ -116,17 +128,11 @@
     <loc>https://epagnin.github.io/deadlines/cans/</loc>
     <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/deadlines/pets1/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://epagnin.github.io/deadlines/asiacrypt/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/tcc/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/pqc/</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/papers/2022-deer/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
