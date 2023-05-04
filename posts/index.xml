@@ -81,7 +81,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       
       <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
       <description>The body of literature around cryptographic techniques and provable security is enormous. To help newcomers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
-New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on information theory, 1978 This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
+New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Transactions on information theory, 1978. This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
     </item>
     
     <item>

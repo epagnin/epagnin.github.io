@@ -54,6 +54,15 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/tcc/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/tcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/pets1/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
@@ -67,6 +76,15 @@
       <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/esorics2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/asiacrypt/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/asiacrypt/</guid>
       <description></description>
     </item>
     
@@ -326,24 +344,6 @@ There is a pressing need to improve the ways in which the output of scientific r
     </item>
     
     <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/asiacrypt/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/asiacrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/tcc/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/tcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Secure Cloud Storage with Joint Deduplication and Erasure Protection</title>
       <link>https://epagnin.github.io/papers/2022-deer/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
@@ -441,7 +441,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       
       <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
       <description>The body of literature around cryptographic techniques and provable security is enormous. To help newcomers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
-New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Trans. on information theory, 1978 This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
+New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Transactions on information theory, 1978. This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
     </item>
     
     <item>
