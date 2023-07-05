@@ -27,6 +27,24 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/acns2/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acns2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/pets2/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -49,6 +67,15 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/nordsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/acns1/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acns1/</guid>
       <description></description>
     </item>
     
@@ -198,15 +225,6 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/acns2/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/acns2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/pets3/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -256,24 +274,6 @@
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
-      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/acns1/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/acns1/</guid>
       <description></description>
     </item>
     
