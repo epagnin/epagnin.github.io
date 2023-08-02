@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Apr 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Academic Integrity</title>
+      <link>https://epagnin.github.io/posts/2023-08-01-integrity/</link>
+      <pubDate>Thu, 20 Apr 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2023-08-01-integrity/</guid>
+      <description>Integrity in Academia Integrity is crucial in academic line of work: you need to make sure that what you publish is sound, and that you are able to defend any aspect of your work, even the parts that have been developed by your collaborators and co-authors.
+It is also very important to objectively and respectfully recognize the source of ideas. Many times you end up re-discovering an existing wheel, though you made the effort &amp;ldquo;independently&amp;rdquo; if someone else published or publicly discussed it before you, the &amp;ldquo;seminal idea&amp;rdquo; should be awarded to them.</description>
+    </item>
+    
+    <item>
       <title>Academic Spam</title>
       <link>https://epagnin.github.io/posts/2023-04-20-aspam/</link>
       <pubDate>Thu, 20 Apr 2023 10:00:00 +0000</pubDate>
@@ -96,7 +106,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Transactions on inf
     </item>
     
     <item>
-      <title>Nice Books</title>
+      <title>Podcasts on Cryptography &amp; Security</title>
       <link>https://epagnin.github.io/posts/2023-02-02-pods/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       

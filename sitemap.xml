@@ -14,11 +14,17 @@
     <loc>https://epagnin.github.io/deadlines/ieee-sp3/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://epagnin.github.io/deadlines/euro-sp/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/acns2/</loc>
     <lastmod>2023-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/eurocrypt/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/deadlines/fc/</loc>
+    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/pets2/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
@@ -55,6 +61,9 @@
   </url><url>
     <loc>https://epagnin.github.io/deadlines/ccs2/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/posts/2023-08-01-integrity/</loc>
+    <lastmod>2023-04-20T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/posts/2023-04-20-aspam/</loc>
     <lastmod>2023-04-20T10:00:00+00:00</lastmod>
@@ -106,12 +115,6 @@
   </url><url>
     <loc>https://epagnin.github.io/deadlines/pkc/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/euro-sp/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/fc/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/deadlines/ct-rsa/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
