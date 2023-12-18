@@ -6,7 +6,16 @@
     <description>Recent content in tricks on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swedish</title>
+      <link>https://epagnin.github.io/posts/2023-11-14-swedish/</link>
+      <pubDate>Tue, 14 Nov 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2023-11-14-swedish/</guid>
+      <description>Technical Swedish Living and working in Sweden one can go by a long way with using just English. However, now and then comes the time when you are asked to provide a summary of your talk/thesis/work/grant proposal in Swedish. The usual workflow is to write a good piece of text in English, run it via google translator or chatGPT, but then, human-intelligence is needed to handle odd translation of terms that are rarely (if ever) used in Swedish.</description>
+    </item>
+    
     <item>
       <title>Interview Questions</title>
       <link>https://epagnin.github.io/posts/2022-06-08-interview/</link>
@@ -32,7 +41,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams </description>
     </item>
     
     <item>

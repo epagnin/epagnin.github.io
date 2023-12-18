@@ -6,13 +6,49 @@
     <description>Recent content in About on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/esorics2/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/esorics2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/pets4/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/pets4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/acisps2/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acisps2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/crypto/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pqc/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pqc/</guid>
       <description></description>
     </item>
     
@@ -27,6 +63,15 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/esorics1/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/ieee-sp3/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -35,11 +80,29 @@
     </item>
     
     <item>
+      <title>Swedish</title>
+      <link>https://epagnin.github.io/posts/2023-11-14-swedish/</link>
+      <pubDate>Tue, 14 Nov 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/posts/2023-11-14-swedish/</guid>
+      <description>Technical Swedish Living and working in Sweden one can go by a long way with using just English. However, now and then comes the time when you are asked to provide a summary of your talk/thesis/work/grant proposal in Swedish. The usual workflow is to write a good piece of text in English, run it via google translator or chatGPT, but then, human-intelligence is needed to handle odd translation of terms that are rarely (if ever) used in Swedish.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/stoc/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/stoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/acisps1/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acisps1/</guid>
       <description></description>
     </item>
     
@@ -89,12 +152,12 @@
     </item>
     
     <item>
-      <title>GIT &amp;co</title>
+      <title>Reading Fast(er)</title>
       <link>https://epagnin.github.io/posts/2023-09-25-reading/</link>
       <pubDate>Mon, 25 Sep 2023 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2023-09-25-reading/</guid>
-      <description>Reading Fast In academia one ends up reading a lot. Some readings require little attention and can be made fast and enjoyable by pasting the text into spreeder or bionic reading. These tools can also come handy for a first pass on a paper (mostly introduction), but be aware that understanding written text takes time, so you should anyway re-read a paper in &amp;rsquo;the usual way&amp;rsquo;. Check out Episode 69 of the academic imperfectionist for an academic&amp;rsquo;s experience with speed reading and intellectual understanding.</description>
+      <description>Reading Fast(er) In academia one ends up reading a lot. Some readings require little attention and can be made fast and enjoyable by pasting the text into spreeder or bionic reading. These tools can also come handy for a first pass on a paper (mostly introduction), but be aware that understanding written text takes time, so you should anyway re-read a paper in &amp;rsquo;the usual way&amp;rsquo;. Check out Episode 69 of the academic imperfectionist for an academic&amp;rsquo;s experience with speed reading and intellectual understanding.</description>
     </item>
     
     <item>
@@ -180,15 +243,6 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/esorics2/</link>
-      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/esorics2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/asiacrypt/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
@@ -244,15 +298,6 @@ It is also very important to objectively and respectfully recognize the source o
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/pqc/</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pqc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/ieee-sp1/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
@@ -266,24 +311,6 @@ It is also very important to objectively and respectfully recognize the source o
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/provsec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/crypto/</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/acisps/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/acisps/</guid>
       <description></description>
     </item>
     
@@ -303,15 +330,6 @@ It is also very important to objectively and respectfully recognize the source o
       
       <guid>https://epagnin.github.io/papers/2023-papr/</guid>
       <description>We study the notion of anonymous credentials with Publicly Auditable Privacy Revocation (PAPR). PAPR credentials simultaneously provide conditional user privacy and auditable privacy revocation. The first property implies that users keep their identity private when authenticating unless and until an appointed authority requests to revoke this privacy, retroactively. The second property enforces that auditors can verify whether or not this authority has revoked privacy from an issued credential (i.e. learned the identity of the user who owns that credential), holding the authority accountable.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/esorics1/</link>
-      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/esorics1/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -450,7 +468,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams </description>
     </item>
     
     <item>
