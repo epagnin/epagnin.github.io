@@ -6,7 +6,34 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaSCaDE: (Time-Based) Cryptography from Space Communications DElay</title>
+      <link>https://epagnin.github.io/papers/2024-cascade/</link>
+      <pubDate>Mon, 01 Jul 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2024-cascade/</guid>
+      <description>Time-based cryptographic primitives such as Time-Lock Puzzles (TLPs) and Verifiable Delay Functions (VDFs) have proven to be pivotal in several areas of cryptography. All existing candidate constructions, however, guarantee time-delays based on the average hardness of sequential computational problems. This means that any algorithmic or hardware improvement affects parameter choices and may turn deployed systems insecure. To address this issue, we investigate how to build time-based cryptographic primitives where delays depend on sources other than sequential computations: namely, transmission delays caused by sequential communication.</description>
+    </item>
+    
+    <item>
+      <title>Progressive and Efficient Verification for Digital Signatures: Extensions and Experimental Results</title>
+      <link>https://epagnin.github.io/papers/2024-flabs-journal/</link>
+      <pubDate>Mon, 01 Jul 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2024-flabs-journal/</guid>
+      <description>Digital signatures are widely deployed to authenticate the source of incoming information, or to certify data integrity. Common signature verification procedures return a decision (accept/reject) only at the very end of the execution. If interrupted prematurely, however, the verification process cannot infer any meaningful information about the validity of the given signature. This limitation is due to the algorithm design solely, and it is not inherent to signature verification. In this work, we provide a formal framework to extract information from prematurely interrupted signature verification, independently of why the process halts: we propose a generic verification procedure that progressively builds confidence on the final decision.</description>
+    </item>
+    
+    <item>
+      <title>Metadata Privacy Beyond Tunneling for Instant Messaging</title>
+      <link>https://epagnin.github.io/papers/2024-denim/</link>
+      <pubDate>Mon, 01 Apr 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2024-denim/</guid>
+      <description>Transport layer data leaks metadata unintentionally – such as who communicates with whom. While tools for strong transport layer privacy exist, they have adoption obstacles, including performance overheads incompatible with mobile devices. We posit that by changing the objective of metadata privacy for all traffic, we can open up a new design space for pragmatic approaches to transport layer privacy. As a first step in this direction, we propose using techniques from information flow control and present a principled approach to constructing formal models of systems with metadata privacy for some, deniable, traffic.</description>
+    </item>
+    
     <item>
       <title>PAPR: Publicly Auditable Privacy Revocation for Anonymous Credentials</title>
       <link>https://epagnin.github.io/papers/2023-papr/</link>
