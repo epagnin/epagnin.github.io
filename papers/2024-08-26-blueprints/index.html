@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Progressive and Efficient Verification for Digital Signatures: Extensions and Experimental Results</title>
+    <title>Updatable Privacy-Preserving Blueprints</title>
     <meta name="description" content="My personal webpage (mostly academic stuff)">
     <meta name="author" content='Elena Pagnin'>
 
@@ -67,26 +67,21 @@
 <div id="content">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
-    <h1>Progressive and Efficient Verification for Digital Signatures: Extensions and Experimental Results</h1>
+    <h1>Updatable Privacy-Preserving Blueprints</h1>
     <hr>
-    Authors: <i>C. Boschini, D. Fiore, E. Pagnin, L. Torresetti, and A. Visconti</i> 
+    Authors: <i>B. David, F. Engelmann, T. Frederiksen, M. Kohlweiss, E. Pagnin, and M. Volkhov</i> 
     <br>
-    In: Journal of Cryptographic Engineering, 
+    In: International Conference on the Theory and Application of Cryptology and Information Security, 
 	2024
 	<br>
 	Full Text: 
-	<a href="https://link.springer.com/content/pdf/10.1007/s13389-024-00358-0.pdf"><i class="fas fa-file"></i></a>
+	<a href="https://eprint.iacr.org/2023/1787.pdf"><i class="fas fa-file"></i></a>
 	 
     <hr>
      <h3>Abstract</h3>
-    <p>Digital signatures are widely deployed to authenticate the source of incoming information, or to certify data integrity. Common signature verification procedures return a decision (accept/reject) only at the very end of the execution. If interrupted prematurely, however, the verification process cannot infer any meaningful information about the validity of the given signature. This limitation is due to the algorithm design solely, and it is not inherent to signature verification.
-In this work, we provide a formal framework to extract information from prematurely interrupted signature verification, independently of why the process halts: we propose a generic
-verification procedure that progressively builds confidence on the final decision. Our transformation builds on a simple but powerful intuition and applies to a wide range of existing schemes considered to be post-quantum secure, including some lattice-based and multivariate equations based constructions. We demonstrate the feasibility of our approach through an implementation on off-the-shelf resource-constrained devices. In particular, an intensive testing activity has been conducted measuring the increase of performance on three IoT boards — i.e., Arduino, Raspberry, and Espressif — and a consumer-grade laptop.
-While the primary motivation of progressive verification is to mitigate unexpected interruptions, we show that verifiers can leverage it in two innovative ways. First, progressive verification can be used to intentionally adjust the soundness of the verification process.
-Second, our transformation splits verification into a computationally intensive offline set-up (run once), and an efficient online verification that is faster than the original algorithm.
-We conclude showing how to tweak our compiler for progressive verification to work on a wide range of signatures with properties, on three real-life use cases, and in combination with efficient verification.</p>
-<p><strong>Keywords:</strong>
-Digital Signatures, Efficient Verification, IoT, Provable Security.</p>
+    <p>Privacy-preserving blueprint schemes (Kohlweiss et al., EUROCRYPT’23) offer a mechanism for safeguarding user’s privacy while allowing for specific legitimate controls by a designated auditor agent. These schemes enable users to create escrows encrypting the result of evaluating a function y = P (t, x), with P being publicly known, t a secret used during the auditor’s key generation, and x the user’s private input. Crucially, escrows only disclose the blueprinting result y = P (t, x) to the designated auditor, even in cases where the auditor is fully compromised. The original definition and construction only support the evaluation of functions P on an input x provided by a single user.
+We address this limitation by introducing updatable privacy-preserving blueprint schemes (UPPB), which enhance the original notion with the ability for multiple users to non-interactively update the private user in- put x while blueprinting. Moreover, UPPBs contain a proof that y is the result of a sequence of valid updates, while revealing nothing else about the private inputs {xi} of updates. As in the case of privacy-preserving blueprints, we first observe that UPPBs can be realized via a generic construction for arbitrary predicates P based on FHE and NIZKs. Our main result is uBlu, an efficient instantiation for a specific predicate comparing the values x and t, where x is the cumulative sum of users’ private inputs and t is a fixed private value provided by the auditor in the setup phase. This rather specific setting already finds interesting applications such as privacy-preserving anti-money laundering and location tracking, and can be extended to support more generic predicates.
+From the technical perspective, we devise a novel technique to keep the escrow size concise, independent of the number of updates, and reasonable for practical applications. We achieve this via a novel characteriza- tion of malleability for the algebraic NIZK by Couteau and Hartmann (CRYPTO’20) that allows for an additive update function.</p>
 
 </div>
 

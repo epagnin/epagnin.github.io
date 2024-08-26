@@ -6,7 +6,16 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Aug 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updatable Privacy-Preserving Blueprints</title>
+      <link>https://epagnin.github.io/papers/2024-08-26-blueprints/</link>
+      <pubDate>Mon, 26 Aug 2024 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2024-08-26-blueprints/</guid>
+      <description>Privacy-preserving blueprint schemes (Kohlweiss et al., EUROCRYPT’23) offer a mechanism for safeguarding user’s privacy while allowing for specific legitimate controls by a designated auditor agent. These schemes enable users to create escrows encrypting the result of evaluating a function y = P (t, x), with P being publicly known, t a secret used during the auditor’s key generation, and x the user’s private input. Crucially, escrows only disclose the blueprinting result y = P (t, x) to the designated auditor, even in cases where the auditor is fully compromised.</description>
+    </item>
+    
     <item>
       <title>CaSCaDE: (Time-Based) Cryptography from Space Communications DElay</title>
       <link>https://epagnin.github.io/papers/2024-cascade/</link>
