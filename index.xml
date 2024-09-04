@@ -6,13 +6,112 @@
     <description>Recent content in About on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pets4/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pets4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/acisps2/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acisps2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/acns2/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/acns2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pets3/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pets3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/ieee-sp2/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ieee-sp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/acisps1/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/acisps1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pqc/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pqc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/euro-sp/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/euro-sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pkc/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pkc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/ct-rsa/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/fc/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/fc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
       <description></description>
     </item>
     
@@ -26,11 +125,38 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/indocrypt/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/indocrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Designated Verifier Ring Signatures</title>
+      <link>https://epagnin.github.io/papers/2024-mdvrs/</link>
+      <pubDate>Tue, 03 Sep 2024 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2024-mdvrs/</guid>
+      <description>We study signatures well suited for sensitive applications (e.g. whistle-blowing) where both the signer’s anonymity and deniability are important. Two independent lines of work have tackled these two goals: ring signatures ensure the signer’s anonymity (within a set of signers, called a ring), and — separately — multi-designated verifier signatures ensure that all the intended recipients agree on whether a signature is valid, while maintaining the signer’s deniability by preventing the intended recipients from convincing an outsider of the validity of the signature.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://epagnin.github.io/deadlines/pets2/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/pets2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Updatable Privacy-Preserving Blueprints</title>
-      <link>https://epagnin.github.io/papers/2024-08-26-blueprints/</link>
+      <link>https://epagnin.github.io/papers/2024-blueprints/</link>
       <pubDate>Mon, 26 Aug 2024 10:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/papers/2024-08-26-blueprints/</guid>
+      <guid>https://epagnin.github.io/papers/2024-blueprints/</guid>
       <description>Privacy-preserving blueprint schemes (Kohlweiss et al., EUROCRYPT’23) offer a mechanism for safeguarding user’s privacy while allowing for specific legitimate controls by a designated auditor agent. These schemes enable users to create escrows encrypting the result of evaluating a function y = P (t, x), with P being publicly known, t a secret used during the auditor’s key generation, and x the user’s private input. Crucially, escrows only disclose the blueprinting result y = P (t, x) to the designated auditor, even in cases where the auditor is fully compromised.</description>
     </item>
     
@@ -63,6 +189,15 @@
     
     <item>
       <title></title>
+      <link>https://epagnin.github.io/deadlines/ieee-sp1/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/deadlines/ieee-sp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://epagnin.github.io/deadlines/scn/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
@@ -90,19 +225,10 @@
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/pets4/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <link>https://epagnin.github.io/deadlines/pets1/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://epagnin.github.io/deadlines/pets4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/acisps2/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/acisps2/</guid>
+      <guid>https://epagnin.github.io/deadlines/pets1/</guid>
       <description></description>
     </item>
     
@@ -112,15 +238,6 @@
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pqc/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pqc/</guid>
       <description></description>
     </item>
     
@@ -170,93 +287,12 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/acisps1/</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/acisps1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/euro-sp/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/euro-sp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pkc/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pkc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/eurocrypt/</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/eurocrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/ct-rsa/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ct-rsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reading Fast(er)</title>
       <link>https://epagnin.github.io/posts/2023-09-25-reading/</link>
       <pubDate>Mon, 25 Sep 2023 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2023-09-25-reading/</guid>
       <description>Reading Fast(er) In academia one ends up reading a lot. Some readings require little attention and can be made fast and enjoyable by pasting the text into spreeder or bionic reading. These tools can also come handy for a first pass on a paper (mostly introduction), but be aware that understanding written text takes time, so you should anyway re-read a paper in &amp;rsquo;the usual way&amp;rsquo;. Check out Episode 69 of the academic imperfectionist for an academic&amp;rsquo;s experience with speed reading and intellectual understanding.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/fc/</link>
-      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/fc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/indocrypt/</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/indocrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pets2/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pets2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/ieee-sp2/</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ieee-sp2/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -274,15 +310,6 @@
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/tcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pets1/</link>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pets1/</guid>
       <description></description>
     </item>
     
@@ -343,15 +370,6 @@ It is also very important to objectively and respectfully recognize the source o
     
     <item>
       <title></title>
-      <link>https://epagnin.github.io/deadlines/ieee-sp1/</link>
-      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/ieee-sp1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://epagnin.github.io/deadlines/provsec/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -383,15 +401,6 @@ It is also very important to objectively and respectfully recognize the source o
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/deadlines/ccs1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://epagnin.github.io/deadlines/pets3/</link>
-      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://epagnin.github.io/deadlines/pets3/</guid>
       <description></description>
     </item>
     
@@ -555,7 +564,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Transactions on inf
       <guid>https://epagnin.github.io/posts/2022-04-08-presentations/</guid>
       <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pikwizard, freepik, unsplash, pxfuel.
 Here&amp;rsquo;s my go-to place for free clipart, and icons
-My favorite place, places
+My favorites: emojis, uft8, emojis for latex
 Tools to help you visualize the size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
     </item>
     

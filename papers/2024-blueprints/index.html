@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Resources for presentations</title>
+    <title>Updatable Privacy-Preserving Blueprints</title>
     <meta name="description" content="My personal webpage (mostly academic stuff)">
     <meta name="author" content='Elena Pagnin'>
 
@@ -65,19 +65,23 @@
 </div>
 <hr>
 <div id="content">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
-    <h1 id="looking-for-copyright-free-material-for-slides">Looking for Copyright-free material for slides?</h1>
-<p>Here&rsquo;s some useful links to <em>images</em> databases: <a href="https://pikwizard.com/">pikwizard</a>, <a href="https://www.freepik.com/">freepik</a>, <a href="https://unsplash.com/">unsplash</a>, <a href="https://www.pxfuel.com">pxfuel</a>.</p>
-<p>Here&rsquo;s my go-to place for free <a href="https://openclipart.org">clipart</a>, and <a href="https://fontawesome.com/search?o=r&amp;m=free">icons</a></p>
-<p>My favorites: <a href="https://openmoji.org">emojis</a>, <a href="https://emojipedia.org/open-book">uft8</a>, <a href="https://ctan.math.washington.edu/tex-archive/macros/luatex/latex/emoji/emoji-doc.pdf">emojis for latex</a></p>
-<h1 id="tools-to-help-you-visualize-the-size-of-things">Tools to help you visualize the size of things</h1>
-<p>When numbers are so big that it&rsquo;s too hard to get an understanding of their magnitude
-some resources might come handy: <a href="https://www.themeasureofthings.com/default.php">the mesure of things</a> to compare the quantity to other more-or-less well-known things; or <a href="https://numbermatics.com">numbermatics</a> to get facts on the number itself.</p>
-<h1 id="struggling-with-colors">Struggling with colors?</h1>
-<p><a href="https://coolors.co">This</a> and <a href="https://colorsupplyyy.com//app">this</a> are fast online tools to create your own decent-looking color palette for presentations, posters, graphs&hellip; in case you&rsquo;re hunting for some specific color scheme use <a href="https://colorhunt.co">colorhunt</a>
-Also, don&rsquo;t forget about <a href="https://medium.com/@appsogreat/how-to-make-your-app-colorblind-friendly-resources-and-experience-sharing-b46615c5a007">inclusiveness</a> and try to use colors that are friendly to <a href="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ud4Ga75HSs40L9LosYJ0lA.png">color-blind</a> people.</p>
-<h1 id="for-inspiration">For inspiration</h1>
-<p><a href="https://www.visualcinnamon.com/portfolio/">Visualcinnamon</a> is a good place to get inspiration on how one can display research in an artistic, and eye-appealing way.</p>
+    <h1>Updatable Privacy-Preserving Blueprints</h1>
+    <hr>
+    Authors: <i>B. David, F. Engelmann, T. Frederiksen, M. Kohlweiss, E. Pagnin, and M. Volkhov</i> 
+    <br>
+    In: International Conference on the Theory and Application of Cryptology and Information Security, 
+	2024
+	<br>
+	Full Text: 
+	<a href="https://eprint.iacr.org/2023/1787.pdf"><i class="fas fa-file"></i></a>
+	 
+    <hr>
+     <h3>Abstract</h3>
+    <p>Privacy-preserving blueprint schemes (Kohlweiss et al., EUROCRYPT’23) offer a mechanism for safeguarding user’s privacy while allowing for specific legitimate controls by a designated auditor agent. These schemes enable users to create escrows encrypting the result of evaluating a function y = P (t, x), with P being publicly known, t a secret used during the auditor’s key generation, and x the user’s private input. Crucially, escrows only disclose the blueprinting result y = P (t, x) to the designated auditor, even in cases where the auditor is fully compromised. The original definition and construction only support the evaluation of functions P on an input x provided by a single user.
+We address this limitation by introducing updatable privacy-preserving blueprint schemes (UPPB), which enhance the original notion with the ability for multiple users to non-interactively update the private user in- put x while blueprinting. Moreover, UPPBs contain a proof that y is the result of a sequence of valid updates, while revealing nothing else about the private inputs {xi} of updates. As in the case of privacy-preserving blueprints, we first observe that UPPBs can be realized via a generic construction for arbitrary predicates P based on FHE and NIZKs. Our main result is uBlu, an efficient instantiation for a specific predicate comparing the values x and t, where x is the cumulative sum of users’ private inputs and t is a fixed private value provided by the auditor in the setup phase. This rather specific setting already finds interesting applications such as privacy-preserving anti-money laundering and location tracking, and can be extended to support more generic predicates.
+From the technical perspective, we devise a novel technique to keep the escrow size concise, independent of the number of updates, and reasonable for practical applications. We achieve this via a novel characteriza- tion of malleability for the algebraic NIZK by Couteau and Hartmann (CRYPTO’20) that allows for an additive update function.</p>
 
 </div>
 
