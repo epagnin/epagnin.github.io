@@ -799,6 +799,16 @@ The HB+ protocol performs device authentication based on the learning parity wit
     </item>
     
     <item>
+      <title></title>
+      <link>https://epagnin.github.io/cpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/cpt/</guid>
+      <description>Cryptographic Proofs Techniques Welcome to the webpage of Cryptographic Proofs Techniques this is a PhD-level course designed to enhance your understanding of standard proof techniques commonly employed in the field of provable security. By delving into various topics, we aim to foster a deep understanding of the principles and methodologies that underpin provable security and gain proficiency in the application of standard proof techniques.
+Each seminar will be led by a designated speaker who will curate relevant resources, structure the session, and facilitate engaging discussions.</description>
+    </item>
+    
+    <item>
       <title>About the Cryptography Course TDA352/DIT250</title>
       <link>https://epagnin.github.io/cryptocourse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -845,7 +855,7 @@ The Research I Like My research interests lie in the design of advanced public k
       
       <guid>https://epagnin.github.io/teaching/</guid>
       <description>My Teaching Ethics I believe that the main factors for great learning outcomes are: trust in the teacher and engagement of the students. When interacting with students my philosophy is to do it all with enthusiasm, be available and remember that we are all learning from each other.
-Ongoing Courses Since fall 2022, I am teaching the CRYPTOGRAPHY course (TDA352/DIT250) for students at Chalmers and Göteborg University. The course is organized in three modules:</description>
+Ongoing Courses Since fall 2022, I am teaching the CRYPTOGRAPHY course (TDA352/DIT352) for students at Chalmers and Göteborg University. The course is organized in three modules:</description>
     </item>
     
     <item>
