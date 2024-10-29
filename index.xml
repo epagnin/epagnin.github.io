@@ -513,7 +513,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams CryptoBib the database that contains references to all iacr publications (remember to periodically download the latest version, which includes the most recent publications) CryptoBib Search online tool for easy searching references in the crypto bib!</description>
     </item>
     
     <item>
@@ -835,8 +835,7 @@ Professional Biography Elena Pagnin is an assistant professor at Chalmers Univer
       
       <guid>https://epagnin.github.io/research/</guid>
       <description>Here&amp;rsquo;s a link to my CV and full list of publications with pointers to open access full-texts versions of my works and video recordings when available. Alternatively, visit dblp, or GoogleScholar.
-The Research I Like My research interests lie in the area of homomorphic cryptographic primitives, data authentication, and user privacy. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.
-I am actively working on: multi-key and homomorphic cryptosystems, signatures with advanced properties, private &amp;amp; compact digital storage solutions, verifiable computation, and privacy-enhancing technologies.</description>
+The Research I Like My research interests lie in the design of advanced public key cryptographic primitives and new cryptographic protocols, mainly for authentication or transparency. I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.</description>
     </item>
     
     <item>
@@ -847,6 +846,16 @@ I am actively working on: multi-key and homomorphic cryptosystems, signatures wi
       <guid>https://epagnin.github.io/teaching/</guid>
       <description>My Teaching Ethics I believe that the main factors for great learning outcomes are: trust in the teacher and engagement of the students. When interacting with students my philosophy is to do it all with enthusiasm, be available and remember that we are all learning from each other.
 Ongoing Courses Since fall 2022, I am teaching the CRYPTOGRAPHY course (TDA352/DIT250) for students at Chalmers and Göteborg University. The course is organized in three modules:</description>
+    </item>
+    
+    <item>
+      <title>The CryptoTeam at Chalmers</title>
+      <link>https://epagnin.github.io/cryptoteam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/cryptoteam/</guid>
+      <description>The CryptoTeam was started by Elena in 2023.
+Members of the Crypto Team at Chalmers Seniors Elena Pagnin Christoph Egger PhD Students Lucia Lavagnino (@Chalmers) : Consistency for Key Transparency (🎩 Elena is the main advisor; 🦸 Christoph is co-advisor) Adrián Pérez Keilty (@Chalmers) : Progressive and Efficient Verification (🎩 Elena is the main advisor) Hanna Ek (@Chalmers) : Signatures with Advanced Properties (🎩 Elena is the main advisor) Ivan Oleynikov (@Chalmers) : Privacy-Preserving Location Proximity Testing (🎩 Elena is the main advisor) </description>
     </item>
     
   </channel>

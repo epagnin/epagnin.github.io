@@ -41,7 +41,7 @@ For several years I have used jekyll, but it started to get messy with the lates
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
       
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams </description>
+      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams CryptoBib the database that contains references to all iacr publications (remember to periodically download the latest version, which includes the most recent publications) CryptoBib Search online tool for easy searching references in the crypto bib!</description>
     </item>
     
     <item>
