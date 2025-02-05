@@ -98,6 +98,15 @@
     </item>
     
     <item>
+      <title>Universally Composable Interactive and Ordered Multi-Signatures</title>
+      <link>https://epagnin.github.io/papers/2025-oms/</link>
+      <pubDate>Tue, 04 Feb 2025 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2025-oms/</guid>
+      <description>Multi-signatures allow a given set of parties to cooperate in order to create a digital signature whose size is independent of the number of signers. At the same time, no other set of parties can create such a signature. While non-interactive multi-signatures are known (e.g. BLS from pairings), many popular multi-signature schemes such as FROST or MuSig (which are constructed from pairing-free discrete logarithm-style assumptions) require interaction. Such interactive multi-signatures have recently found practical applications e.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/sac1/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
@@ -901,7 +910,7 @@ Ongoing Courses Since fall 2022, I am teaching the CRYPTOGRAPHY course (TDA352/D
       
       <guid>https://epagnin.github.io/cryptoteam/</guid>
       <description>The CryptoTeam was started by Elena in 2023.
-Members of the Crypto Team at Chalmers Seniors Elena Pagnin Christoph Egger PhD Students Lucia Lavagnino (@Chalmers) : Consistency for Key Transparency (🎩 Elena is the main advisor; 🦸 Christoph is co-advisor) Adrián Pérez Keilty (@Chalmers) : Progressive and Efficient Verification (🎩 Elena is the main advisor) Hanna Ek (@Chalmers) : Signatures with Advanced Properties (🎩 Elena is the main advisor) Ivan Oleynikov (@Chalmers) : Privacy-Preserving Location Proximity Testing (🎩 Elena is the main advisor) </description>
+Members of the Crypto Team at Chalmers Seniors Elena Pagnin Christoph Egger PhD Students Lucia Lavagnino (@Chalmers) : Consistency for Key Transparency (🎩 Elena is the main advisor; 🦸 Christoph is co-advisor) Adrián Pérez Keilty (@Chalmers) : Progressive and Efficient Verification (🎩 Elena is the main advisor) Hanna Ek (@Chalmers) : Signatures with Advanced Properties (🎩 Elena is the main advisor) Ivan Oleynikov (@Chalmers) : Privacy-Preserving Location Proximity Testing (🎩 Elena is the main advisor) Group Picture 2025 </description>
     </item>
     
   </channel>
