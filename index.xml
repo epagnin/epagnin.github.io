@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>That&#39;s AmorE: Amortized Eﬃciency for Pairing Delegation</title>
+      <link>https://epagnin.github.io/papers/2025-amore/</link>
+      <pubDate>Mon, 05 May 2025 14:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2025-amore/</guid>
+      <description>Over two decades since their introduction in 2005, all major verifiable pairing delegation protocols for public inputs have been designed to ensure information-theoretic security. However, we note that a delegation protocol involving only ephemeral secret keys in the public view can achieve everlasting security, provided the server is unable to produce a pairing forgery within the protocol’s execution time. Thus, computationally bounding the adversary’s capabilities during the protocol’s execution, rather than across its entire lifespan, may be more reasonable, especially when the goal is to achieve significant efficiency gains for the delegating party.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://epagnin.github.io/deadlines/esorics2/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
@@ -609,7 +618,7 @@ New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Transactions on inf
       <guid>https://epagnin.github.io/posts/2022-04-08-presentations/</guid>
       <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pikwizard, freepik, unsplash, pxfuel.
 Here&amp;rsquo;s my go-to place for free clipart, and icons
-My favorites: emojis, uft8, emojis for latex
+My favorites: emojis, streamline uft8, emojis for latex
 Tools to help you visualize the size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
     </item>
     

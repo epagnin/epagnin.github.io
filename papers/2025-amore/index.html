@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Resources for presentations</title>
+    <title>That&#39;s AmorE: Amortized Eﬃciency for Pairing Delegation</title>
     <meta name="description" content="My personal webpage (mostly academic stuff)">
     <meta name="author" content='Elena Pagnin'>
 
@@ -72,19 +72,24 @@
 </div>
 <hr>
 <div id="content">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
-    <h1 id="looking-for-copyright-free-material-for-slides">Looking for Copyright-free material for slides?</h1>
-<p>Here&rsquo;s some useful links to <em>images</em> databases: <a href="https://pikwizard.com/">pikwizard</a>, <a href="https://www.freepik.com/">freepik</a>, <a href="https://unsplash.com/">unsplash</a>, <a href="https://www.pxfuel.com">pxfuel</a>.</p>
-<p>Here&rsquo;s my go-to place for free <a href="https://openclipart.org">clipart</a>, and <a href="https://fontawesome.com/search?o=r&amp;m=free">icons</a></p>
-<p>My favorites: <a href="https://openmoji.org">emojis</a>, <a href="https://www.streamlinehq.com/?tab=free">streamline</a> <a href="https://emojipedia.org/open-book">uft8</a>, <a href="https://ctan.math.washington.edu/tex-archive/macros/luatex/latex/emoji/emoji-doc.pdf">emojis for latex</a></p>
-<h1 id="tools-to-help-you-visualize-the-size-of-things">Tools to help you visualize the size of things</h1>
-<p>When numbers are so big that it&rsquo;s too hard to get an understanding of their magnitude
-some resources might come handy: <a href="https://www.themeasureofthings.com/default.php">the mesure of things</a> to compare the quantity to other more-or-less well-known things; or <a href="https://numbermatics.com">numbermatics</a> to get facts on the number itself.</p>
-<h1 id="struggling-with-colors">Struggling with colors?</h1>
-<p><a href="https://coolors.co">This</a> and <a href="https://colorsupplyyy.com//app">this</a> are fast online tools to create your own decent-looking color palette for presentations, posters, graphs&hellip; in case you&rsquo;re hunting for some specific color scheme use <a href="https://colorhunt.co">colorhunt</a>
-Also, don&rsquo;t forget about <a href="https://medium.com/@appsogreat/how-to-make-your-app-colorblind-friendly-resources-and-experience-sharing-b46615c5a007">inclusiveness</a> and try to use colors that are friendly to <a href="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ud4Ga75HSs40L9LosYJ0lA.png">color-blind</a> people.</p>
-<h1 id="for-inspiration">For inspiration</h1>
-<p><a href="https://www.visualcinnamon.com/portfolio/">Visualcinnamon</a> is a good place to get inspiration on how one can display research in an artistic, and eye-appealing way.</p>
+    <h1>That&#39;s AmorE: Amortized Eﬃciency for Pairing Delegation</h1>
+    <hr>
+    Authors: <i>A. P. Keilty, D. Aranha, E. Pagnin, F. Rodríguez-Henríquez</i> 
+    <br>
+    In: Advances in Cryptology -- CRYPTO, 
+	2025
+	<br>
+	Full Text: 
+	<a href="https://eprint.iacr.org/2025/542.pdf"><i class="fas fa-file"></i></a>
+	 
+    <hr>
+     <h3>Abstract</h3>
+    <p>Over two decades since their introduction in 2005, all major verifiable pairing delegation protocols for public inputs have been designed to ensure information-theoretic security. However, we note that a delegation protocol involving only ephemeral secret keys in the public view can achieve everlasting security, provided the server is unable to produce a pairing forgery within the protocol’s execution time. Thus, computationally bounding the adversary’s capabilities during the protocol’s execution, rather than across its entire lifespan, may be more reasonable, especially when the goal is to achieve significant efficiency gains for the delegating party. This consideration is particularly relevant given the continuously evolving computational costs associated with pairing computations and their ancillary blocks, which creates an ever-changing landscape for what constitutes efficiency in pairing delegation protocols.
+With the goal of fulfilling both efficiency and everlasting security, we present AmorE, a protocol equipped with an adjustable security and efficiency parameter for sequential pairing delegation, which achieves state-of-the-art amortized efficiency in terms of the number of pairing computations. For example, delegating batches of 10 pairings on the BLS48-575 elliptic curve via our protocol costs to the client, on average, less than a single scalar multiplication in G2 per delegated pairing, while still ensuring at least 40 bits of statistical security.</p>
+<p><strong>Keywords:</strong>
+pairings, verifiable delegation, efficient software implementation.</p>
 
 </div>
 
