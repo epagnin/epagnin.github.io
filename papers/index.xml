@@ -6,7 +6,16 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 May 2025 14:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proofs of sequential communication delays from physical assumptions and their applications</title>
+      <link>https://epagnin.github.io/papers/2025-scd/</link>
+      <pubDate>Wed, 30 Jul 2025 10:00:00 +0000</pubDate>
+      
+      <guid>https://epagnin.github.io/papers/2025-scd/</guid>
+      <description>Time-based cryptographic primitives unlock efficient realizations of several functionalities including Randomness Beacons, Proof of Replicated Storage, Encryption to the Future, and MultiParty Computation with partial fairness. Existing constructions derive time-delays from the average hardness of sequential computational problems, a measure that is susceptible to algorithmic and hardware improvements. Therefore time-based systems secure at deployment date are at constant risk to turn insecure. A way to combat this intrinsic drawback is to ground time-delays on assumptions that are not affected by scientific advancement such as trust (in a subset of parties) and physical communication delays.</description>
+    </item>
+    
     <item>
       <title>That&#39;s AmorE: Amortized Eﬃciency for Pairing Delegation</title>
       <link>https://epagnin.github.io/papers/2025-amore/</link>
