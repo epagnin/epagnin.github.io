@@ -4,35 +4,30 @@
     <title>Categories on Elena Pagnin</title>
     <link>https://epagnin.github.io/categories/</link>
     <description>Recent content in Categories on Elena Pagnin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://epagnin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>tricks</title>
+      <title>Tricks</title>
       <link>https://epagnin.github.io/categories/tricks/</link>
       <pubDate>Tue, 14 Nov 2023 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/categories/tricks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>phds</title>
+      <title>Phds</title>
       <link>https://epagnin.github.io/categories/phds/</link>
       <pubDate>Mon, 25 Sep 2023 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/categories/phds/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>conference</title>
+      <title>Conference</title>
       <link>https://epagnin.github.io/categories/conference/</link>
       <pubDate>Mon, 04 Dec 2017 14:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/categories/conference/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

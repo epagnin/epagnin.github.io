@@ -1,59 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tricks on Elena Pagnin</title>
+    <title>Tricks on Elena Pagnin</title>
     <link>https://epagnin.github.io/categories/tricks/</link>
-    <description>Recent content in tricks on Elena Pagnin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tricks on Elena Pagnin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://epagnin.github.io/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swedish</title>
       <link>https://epagnin.github.io/posts/2023-11-14-swedish/</link>
       <pubDate>Tue, 14 Nov 2023 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2023-11-14-swedish/</guid>
-      <description>Technical Swedish Living and working in Sweden one can go by a long way with using just English. However, now and then comes the time when you are asked to provide a summary of your talk/thesis/work/grant proposal in Swedish. The usual workflow is to write a good piece of text in English, run it via google translator or chatGPT, but then, human-intelligence is needed to handle odd translation of terms that are rarely (if ever) used in Swedish.</description>
+      <description>&lt;h2 id=&#34;technical-swedish&#34;&gt;Technical Swedish&lt;/h2&gt;&#xA;&lt;p&gt;Living and working in Sweden one can go by a long way with using just English. However, now and then comes the time when you are asked to provide a summary of your talk/thesis/work/grant proposal &lt;em&gt;in Swedish&lt;/em&gt;. The usual workflow is to write a good piece of text in English, run it via google translator or chatGPT, but then, human-intelligence is needed to handle odd translation of terms that are rarely (if ever) used in Swedish. For these terms &lt;a href=&#34;https://it-ord.idg.se/ord/totalstrackskryptering/&#34;&gt;IT-ord&lt;/a&gt; provides a good translation. Good luck!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Interview Questions</title>
       <link>https://epagnin.github.io/posts/2022-06-08-interview/</link>
       <pubDate>Wed, 15 Jun 2022 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-06-08-interview/</guid>
-      <description>If you&amp;rsquo;re preparing for an interview (either as interviewee or interviewer), this is a good link to check out! It&amp;rsquo;s essentially a bot that returns common hiring questions for faculty appointments within computer science. Here you get a pdf with a good pool of questions for practicing.</description>
+      <description>&lt;p&gt;If you&amp;rsquo;re preparing for an interview (either as interviewee or interviewer), &lt;a href=&#34;https://csfaculty.github.io&#34;&gt;this&lt;/a&gt; is a good link to check out! It&amp;rsquo;s essentially a bot that returns common hiring questions for faculty appointments within computer science. &lt;a href=&#34;https://info.lse.ac.uk/current-students/careers/Assets/Documents/PhD/InterviewQuestions.pdf&#34;&gt;Here&lt;/a&gt; you get a pdf with a good pool of questions for practicing.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About this website</title>
       <link>https://epagnin.github.io/posts/2020-04-website/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2020-04-website/</guid>
-      <description>How did I build this website? For academics, I think having a personal website is quite important as it allows you to quickly advertise news, collect and organize your work, and, most importantly, it is a great way for everyone around the world to know you exist and what you&amp;rsquo;re up to.
-For several years I have used jekyll, but it started to get messy with the latest OS updates and gem versions.</description>
+      <description>&lt;h2 id=&#34;how-did-i-build-this-website&#34;&gt;How did I build this website?&lt;/h2&gt;&#xA;&lt;p&gt;For academics, I think having a personal website is quite important as it allows you to quickly advertise news, collect and organize your work, and, most importantly, it is a great way for everyone around the world to know you exist and what you&amp;rsquo;re up to.&lt;/p&gt;&#xA;&lt;p&gt;For several years I have used &lt;a href=&#34;https://jekyllrb.com&#34;&gt;jekyll&lt;/a&gt;, but it started to get messy with the latest OS updates and gem versions.&#xA;So for this website I&amp;rsquo;m using &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;, it does have a steep learning curve for beginners, but I&amp;rsquo;m really loving it &amp;#x2764;&amp;#xfe0f;&lt;br&gt;&#xA;Here&amp;rsquo;s a &lt;a href=&#34;https://www.freecodecamp.org/news/hugo-vs-jekyll-battle-of-static-site-generator-themes/&#34;&gt;quick comparison&lt;/a&gt; between hugo and jekyll.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>4 LaTeX</title>
       <link>https://epagnin.github.io/posts/2020-04-27-latex/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2020-04-27-latex/</guid>
-      <description>Handy links for LaTeX Detexify automatic recognition of handwritten symbols latex-arrows visual list of latex commands for different types of arrows and more (e.g., very useful LaTeX for Beginners F.A.Q.) latexpand to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: latexpand -empty-comments -o main_one_file.tex main.tex the long file output will appear in the Terminal) mathcha for creating tikz pictures in a more eye-friendly way FreeTikZ to transform handwritten diagrams into tikz TikZiT GUI editor for graphs and string diagrams CryptoBib the database that contains references to all iacr publications (remember to periodically download the latest version, which includes the most recent publications) CryptoBib Search online tool for easy searching references in the crypto bib!</description>
+      <description>&lt;h2 id=&#34;handy-links-for-latex&#34;&gt;Handy links for LaTeX&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://detexify.kirelabs.org&#34;&gt;Detexify&lt;/a&gt; automatic recognition of handwritten symbols&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.sascha-frank.com/Arrow/latex-arrows.html&#34;&gt;latex-arrows&lt;/a&gt; visual list of latex commands for different types of arrows and more (e.g., very useful &lt;a href=&#34;https://www.sascha-frank.com/Faq2/faq2.html&#34;&gt;LaTeX for Beginners F.A.Q.&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.ctan.org/tex-archive/support/latexpand&#34;&gt;latexpand&lt;/a&gt; to automatically combine all latex files into a single file. (If full latex is installed, you just need to type this command line: &lt;code&gt;latexpand -empty-comments -o main_one_file.tex main.tex&lt;/code&gt; the long file output will appear in the Terminal)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mathcha.io/editor&#34;&gt;mathcha&lt;/a&gt; for creating tikz pictures in a more eye-friendly way&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://homepages.inf.ed.ac.uk/cheunen/freetikz/&#34;&gt;FreeTikZ&lt;/a&gt; to transform handwritten diagrams into tikz&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tikzit.github.io&#34;&gt;TikZiT&lt;/a&gt; GUI editor for graphs and string diagrams&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cryptobib.di.ens.fr&#34;&gt;CryptoBib&lt;/a&gt; the database that contains references to all iacr publications (remember to periodically download the latest version, which includes the most recent publications)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://publish.iacr.org/cryptobib&#34;&gt;CryptoBib Search&lt;/a&gt; online tool for easy searching references in the crypto bib!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Nice Books</title>
       <link>https://epagnin.github.io/posts/2022-09-16-books/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-09-16-books/</guid>
-      <description>📙 Captivate: The Science of Succeeding with People by Vanessa Van Edwards
-📙 Develop Your Presentation Skills: How to Inspire and Inform with Clarity and Confidence by Theo Theobald
-📙 From Research to Manuscript A Guide to Scientific Writing by Michael Jay Katz</description>
+      <description>&lt;p&gt;&amp;#x1f4d9; &lt;strong&gt;Captivate: The Science of Succeeding with People&lt;/strong&gt; by Vanessa Van Edwards&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f4d9; &lt;strong&gt;Develop Your Presentation Skills: How to Inspire and Inform with Clarity and Confidence&lt;/strong&gt; by Theo Theobald&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f4d9; &lt;strong&gt;From Research to Manuscript A Guide to Scientific Writing&lt;/strong&gt; by Michael Jay Katz&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

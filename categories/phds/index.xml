@@ -1,168 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>phds on Elena Pagnin</title>
+    <title>Phds on Elena Pagnin</title>
     <link>https://epagnin.github.io/categories/phds/</link>
-    <description>Recent content in phds on Elena Pagnin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Phds on Elena Pagnin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://epagnin.github.io/categories/phds/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://epagnin.github.io/categories/phds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Fast(er)</title>
       <link>https://epagnin.github.io/posts/2023-09-25-reading/</link>
       <pubDate>Mon, 25 Sep 2023 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2023-09-25-reading/</guid>
-      <description>Reading Fast(er) In academia one ends up reading a lot. Some readings require little attention and can be made fast and enjoyable by pasting the text into spreeder or bionic reading. These tools can also come handy for a first pass on a paper (mostly introduction), but be aware that understanding written text takes time, so you should anyway re-read a paper in &amp;rsquo;the usual way&amp;rsquo;. Check out Episode 69 of the academic imperfectionist for an academic&amp;rsquo;s experience with speed reading and intellectual understanding.</description>
+      <description>&lt;h2 id=&#34;reading-faster&#34;&gt;Reading Fast(er)&lt;/h2&gt;&#xA;&lt;p&gt;In academia one ends up reading &lt;em&gt;a lot&lt;/em&gt;. Some readings require little attention and can be made &lt;em&gt;fast and enjoyable&lt;/em&gt; by pasting the text into &lt;a href=&#34;https://www.spreeder.com/app.php?intro=1&#34;&gt;spreeder&lt;/a&gt; or &lt;a href=&#34;https://app.bionic-reading.com&#34;&gt;bionic reading&lt;/a&gt;. These tools can also come handy for a first pass on a paper (mostly introduction), but be aware that &lt;strong&gt;understanding written text takes time&lt;/strong&gt;, so you should anyway re-read a paper in &amp;rsquo;the usual way&amp;rsquo;. Check out &lt;a href=&#34;https://spotify.link/Rs7U2vkTnDb&#34;&gt;Episode 69&lt;/a&gt; of the academic imperfectionist for an academic&amp;rsquo;s experience with speed reading and intellectual understanding.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Academic Integrity</title>
       <link>https://epagnin.github.io/posts/2023-08-01-integrity/</link>
       <pubDate>Thu, 20 Apr 2023 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2023-08-01-integrity/</guid>
-      <description>Integrity in Academia Integrity is crucial in academic line of work: you need to make sure that what you publish is sound, and that you are able to defend any aspect of your work, even the parts that have been developed by your collaborators and co-authors.
-It is also very important to objectively and respectfully recognize the source of ideas. Many times you end up re-discovering an existing wheel, though you made the effort &amp;ldquo;independently&amp;rdquo; if someone else published or publicly discussed it before you, the &amp;ldquo;seminal idea&amp;rdquo; should be awarded to them.</description>
+      <description>&lt;h2 id=&#34;integrity-in-academia&#34;&gt;Integrity in Academia&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Integrity&lt;/strong&gt; is crucial in academic line of work: you need to make sure that what you publish is &lt;em&gt;sound&lt;/em&gt;, and that you are able to &lt;em&gt;defend any aspect of your work&lt;/em&gt;, even the parts that have been developed by your collaborators and co-authors.&lt;/p&gt;&#xA;&lt;p&gt;It is also very important to objectively and respectfully &lt;strong&gt;recognize the source of ideas&lt;/strong&gt;. Many times you end up re-discovering an existing wheel, though you made the effort &amp;ldquo;independently&amp;rdquo; if someone else published or publicly discussed it before you, the &amp;ldquo;seminal idea&amp;rdquo; should be awarded to them.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Academic Spam</title>
       <link>https://epagnin.github.io/posts/2023-04-20-aspam/</link>
       <pubDate>Thu, 20 Apr 2023 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2023-04-20-aspam/</guid>
-      <description>What is Academic Spam? Yes, academia is not immune to spam! and here I&amp;rsquo;m not talking about &amp;rsquo;the usual&amp;rsquo; kind of spam, but the one that is targeted to academic. This often comes with emails addressed to Dear colleague, Respected Sir, or in the more sophisticated cases they actually parse your name (usually from bibliographic references, so that it spells surname first or with odd shortening), and offers invitation to submit your work to (fictional) conferences or (scamy and irrelevant) journals with low-quality.</description>
+      <description>&lt;h2 id=&#34;what-is-academic-spam&#34;&gt;What is Academic Spam?&lt;/h2&gt;&#xA;&lt;p&gt;Yes, academia is not immune to spam! and here I&amp;rsquo;m not talking about &amp;rsquo;the usual&amp;rsquo; kind of spam, but the one that is targeted to academic.&#xA;This often comes with emails addressed to &lt;code&gt;Dear colleague&lt;/code&gt;, &lt;code&gt;Respected Sir&lt;/code&gt;, or in the more sophisticated cases they actually parse your name (usually from bibliographic references, so that it spells surname first or with odd shortening), and offers invitation to submit your work to (fictional) conferences or (scamy and irrelevant) journals with low-quality.&#xA;The aim is to cause irrelevant submissions, get money for you to publish it, or gather intelligence about your (unpublished) progress.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How does the peer-review system work?</title>
       <link>https://epagnin.github.io/posts/2022-09-01-review/</link>
       <pubDate>Thu, 01 Sep 2022 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-09-01-review/</guid>
-      <description>Basics principles of peer-reviewing You submit your work. A few people read it, usually the magic number of reviewers is 3, and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.
-What do reviewers look for in a paper?</description>
+      <description>&lt;h1 id=&#34;basics-principles-of-peer-reviewing&#34;&gt;Basics principles of peer-reviewing&lt;/h1&gt;&#xA;&lt;p&gt;You submit your work. A few people read it, usually the magic number of reviewers is 3, and they are supposed to be experts in the topic of your paper. These people say what they think about your paper. Your paper gets accepted or rejecting according to the reviewers&amp;rsquo; opinions and possibly a sanity check by the general chair of the conference.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-do-reviewers-look-for-in-a-paper&#34;&gt;What do reviewers look for in a paper?&lt;/h1&gt;&#xA;&lt;p&gt;Usually, they focus on &lt;em&gt;novelty&lt;/em&gt; and &lt;em&gt;correctness&lt;/em&gt;. This means that they want to first understand why what you did matters, and how &amp;ldquo;big&amp;rdquo; your contribution is; then, they will move to checking that your work is sound (no errors or flaws). Remember that reviewers are humans, they make errors, may be swayed to praise more works closer to their line of work, have a personal taste. Also, it is hard to define what novelty actually means, and too often, lately, novelty is confused with hardness. There&amp;rsquo;s a nice &lt;a href=&#34;https://perceiving-systems.blog/en/news/novelty-in-science&#34;&gt;post&lt;/a&gt; by Michael J. Black that discusses novelty in computer science, I think many of his claims apply to the cryptographic community as well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to determine quality of papers</title>
       <link>https://epagnin.github.io/posts/2022-07-01-quality/</link>
       <pubDate>Fri, 01 Jul 2022 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-07-01-quality/</guid>
-      <description>How to determine quality of papers There are different metrics to measure &amp;lsquo;how good&amp;rsquo; a paper is. None is perfect or completely accurate. The best way to judge is personal, and you will develop your own preferences and &amp;lsquo;qualities indicators&amp;rsquo; over time.
-The San Francisco Declaration on Research Assessment (DORA) opens with this statement:
-There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties.</description>
+      <description>&lt;h1 id=&#34;how-to-determine-quality-of-papers&#34;&gt;How to determine quality of papers&lt;/h1&gt;&#xA;&lt;p&gt;There are different metrics to &lt;em&gt;measure&lt;/em&gt; &amp;lsquo;how good&amp;rsquo; a paper is. None is perfect or completely accurate. The best way to judge is personal, and you will develop your own preferences and &amp;lsquo;qualities indicators&amp;rsquo; over time.&lt;/p&gt;&#xA;&lt;p&gt;The San Francisco Declaration on Research Assessment (&lt;a href=&#34;https://sfdora.org/read/&#34;&gt;DORA&lt;/a&gt;) opens with this statement:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GIT &amp;co</title>
       <link>https://epagnin.github.io/posts/2020-04-27-git/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2020-04-27-git/</guid>
-      <description>Handy links for GIT Git is an amazing tool for collaborative projects. In a nutshell, it enables version controlling of whatever collection of digital data you log in it. When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert in time to restore previous versions. As a PhD student, if you want to do research with me, knowing how to navigate git is a prerequisite.</description>
+      <description>&lt;h2 id=&#34;handy-links-for-git&#34;&gt;Handy links for GIT&lt;/h2&gt;&#xA;&lt;p&gt;Git is an amazing tool for collaborative projects.&#xA;In a nutshell, it enables version controlling of whatever collection of digital data you log in it.&#xA;When writing a paper with other people, git makes it easy to trace changes, to ensure everyone can reach the most recent version of the text / code / experiments, and, if needed, to revert in time to restore previous versions.&#xA;&lt;em&gt;As a PhD student, if you want to do research with me, knowing how to navigate git is a prerequisite.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Interesting Readings (Research Articles)</title>
       <link>https://epagnin.github.io/posts/2022-05-12-readings/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-05-12-readings/</guid>
-      <description>The body of literature around cryptographic techniques and provable security is enormous. To help newcomers approach the community I am collecting a list of nice papers that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.
-New Directions in Cryptoraphy by Diffie and Hellman, in IEEE Transactions on information theory, 1978. This is THE Diffie Hellman paper, the stepping stone into public-key and computational cryptography.</description>
+      <description>&lt;p&gt;The body of literature around cryptographic techniques and provable security is enormous.&#xA;To help newcomers approach the community I am collecting a list of &lt;em&gt;nice papers&lt;/em&gt; that hopefully provide an easy introduction to the main branches of cryptography and the way formal reasoning works.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ee.stanford.edu/~hellman/publications/24.pdf&#34;&gt;New Directions in Cryptoraphy&lt;/a&gt; by Diffie and Hellman, in IEEE Transactions on information theory, 1978.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This is &lt;em&gt;THE&lt;/em&gt; Diffie Hellman paper, the stepping stone into public-key and computational cryptography. A must read for every cryptographer, at least once in a lifetime (and every now and then, as a reminder that simple explanations are possible, good and long-standing)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Podcasts on Cryptography &amp; Security</title>
       <link>https://epagnin.github.io/posts/2023-02-02-pods/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2023-02-02-pods/</guid>
-      <description>List of nice podcast about Cryptography and Real world Security 🎧 Darknet Diaries, fascinating interviews and stories about several famous event and people (enjoyable even if you are not tech-savvy).
-🎧 Cryptography FM, interviews and discussions about recent progresses in cryptography. Particularly relevant for PhD students and people that study and work with cryptography.</description>
+      <description>&lt;h1 id=&#34;list-of-nice-podcast-about-cryptography-and-real-world-security&#34;&gt;List of nice podcast about Cryptography and Real world Security&lt;/h1&gt;&#xA;&lt;p&gt;&amp;#x1f3a7; &lt;a href=&#34;https://darknetdiaries.com&#34;&gt;Darknet Diaries&lt;/a&gt;, fascinating interviews and stories about several famous event and people (enjoyable even if you are not tech-savvy).&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f3a7; &lt;a href=&#34;https://www.cryptography.fm&#34;&gt;Cryptography FM&lt;/a&gt;, interviews and discussions about recent progresses in cryptography. Particularly relevant for PhD students and people that study and work with cryptography.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Resources for presentations</title>
       <link>https://epagnin.github.io/posts/2022-04-08-presentations/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-04-08-presentations/</guid>
-      <description>Looking for Copyright-free material for slides? Here&amp;rsquo;s some useful links to images databases: pikwizard, freepik, unsplash, pxfuel.
-Here&amp;rsquo;s my go-to place for free clipart, and icons
-My favorites: emojis, streamline uft8, emojis for latex
-Tools to help you visualize the size of things When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude some resources might come handy: the mesure of things to compare the quantity to other more-or-less well-known things; or numbermatics to get facts on the number itself.</description>
+      <description>&lt;h1 id=&#34;looking-for-copyright-free-material-for-slides&#34;&gt;Looking for Copyright-free material for slides?&lt;/h1&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s some useful links to &lt;em&gt;images&lt;/em&gt; databases: &lt;a href=&#34;https://pikwizard.com/&#34;&gt;pikwizard&lt;/a&gt;, &lt;a href=&#34;https://www.freepik.com/&#34;&gt;freepik&lt;/a&gt;, &lt;a href=&#34;https://unsplash.com/&#34;&gt;unsplash&lt;/a&gt;, &lt;a href=&#34;https://www.pxfuel.com&#34;&gt;pxfuel&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s my go-to place for free &lt;a href=&#34;https://openclipart.org&#34;&gt;clipart&lt;/a&gt;, and &lt;a href=&#34;https://fontawesome.com/search?o=r&amp;amp;m=free&#34;&gt;icons&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;My favorites: &lt;a href=&#34;https://openmoji.org&#34;&gt;emojis&lt;/a&gt;, &lt;a href=&#34;https://www.streamlinehq.com/?tab=free&#34;&gt;streamline&lt;/a&gt; &lt;a href=&#34;https://emojipedia.org/open-book&#34;&gt;uft8&lt;/a&gt;, &lt;a href=&#34;https://ctan.math.washington.edu/tex-archive/macros/luatex/latex/emoji/emoji-doc.pdf&#34;&gt;emojis for latex&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tools-to-help-you-visualize-the-size-of-things&#34;&gt;Tools to help you visualize the size of things&lt;/h1&gt;&#xA;&lt;p&gt;When numbers are so big that it&amp;rsquo;s too hard to get an understanding of their magnitude&#xA;some resources might come handy: &lt;a href=&#34;https://www.themeasureofthings.com/default.php&#34;&gt;the mesure of things&lt;/a&gt; to compare the quantity to other more-or-less well-known things; or &lt;a href=&#34;https://numbermatics.com&#34;&gt;numbermatics&lt;/a&gt; to get facts on the number itself.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Things you should know</title>
       <link>https://epagnin.github.io/posts/2020-04-27-phd-qa/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2020-04-27-phd-qa/</guid>
-      <description>This post contains some common Q&amp;amp;A for PhD students:
-Q: Where can I look for papers to read and study? A: In the beginning of your PhD, start by looking at the list of accepted papers at top- and mid-level conferences. You can do this by googling the conference name, a year and search for a link of &amp;lsquo;accepted papers&amp;rsquo; or &amp;lsquo;program&amp;rsquo;. [Names of conferences: CRYPTO, EUROCRYPT, ASIACRYPT, PKC, Theory of Cryptography Conference] Some conferences also provide video recordings of the presentations (which is a time-efficient way to get what the paper is about).</description>
+      <description>&lt;p&gt;This post contains some common Q&amp;amp;A for PhD students:&lt;/p&gt;&#xA;&lt;h2 id=&#34;q-where-can-i-look-for-papers-to-read-and-study&#34;&gt;Q: Where can I look for papers to read and study?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; In the &lt;strong&gt;beginning&lt;/strong&gt; of your PhD, start by looking at the list of &lt;strong&gt;accepted papers at top- and mid-level conferences&lt;/strong&gt;.&#xA;You can do this by googling the conference name, a year and search for a link of &amp;lsquo;accepted papers&amp;rsquo; or &amp;lsquo;program&amp;rsquo;. &lt;em&gt;[Names of conferences: CRYPTO, EUROCRYPT, ASIACRYPT, PKC, Theory of Cryptography Conference]&lt;/em&gt;&#xA;Some conferences also provide video recordings of the presentations (which is a time-efficient way to get what the paper is about).&#xA;Following this strategy you will most likely encounter solid results and work of good quality.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tipps for Good Teaching Practice</title>
       <link>https://epagnin.github.io/posts/2021-10-11-teaching/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2021-10-11-teaching/</guid>
-      <description>Tipps for Good Teaching Practice As part of your PhD education at LTH, you will take some pedagogical courses regarding teaching, learning and how to evaluate students&amp;rsquo; learning. But when it comes to it, how do you structure a lecture? Here and here you can find a list of clear and valuable pointers to keep in mind when preparing yourself to this task.</description>
+      <description>&lt;h2 id=&#34;tipps-for-good-teaching-practice&#34;&gt;Tipps for Good Teaching Practice&lt;/h2&gt;&#xA;&lt;p&gt;As part of your PhD education at LTH, you will take some pedagogical courses regarding teaching, learning and how to evaluate students&amp;rsquo; learning. But when it comes to it, how do you structure a lecture? &lt;a href=&#34;https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/lecturing-and-presenting/delivery/lecturing-effectively-university&#34;&gt;Here&lt;/a&gt; and &lt;a href=&#34;https://www.ulethbridge.ca/teachingcentre/creating-lesson-lecture-or-presentation&#34;&gt;here&lt;/a&gt; you can find a list of clear and valuable pointers to keep in mind when preparing yourself to this task.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Useful Links</title>
       <link>https://epagnin.github.io/posts/2022-04-08-links/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-04-08-links/</guid>
-      <description>Efficiently decide on a meeting date and time When2meet lets people fill in their availability in a calendar form, instead of flooding people with numerous options. What was the Latex command for that symbol? Detexify automatic recognition of handwritten symbols Good English Ngram Viewer is a useful tool that checks how frequent a certain word, name or expression (sequence of few words) is common in the English literature. It is a simple way to check correctness of words bending and preposition for non-native speakers.</description>
+      <description>&lt;h2 id=&#34;efficiently-decide-on-a-meeting-date-and-time&#34;&gt;Efficiently decide on a meeting date and time&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.when2meet.com&#34;&gt;When2meet&lt;/a&gt; lets people fill in their availability in a calendar form, instead of flooding people with numerous options.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-was-the-latex-command-for-that-symbol&#34;&gt;What was the Latex command for that symbol?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://detexify.kirelabs.org&#34;&gt;Detexify&lt;/a&gt; automatic recognition of handwritten symbols&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;good-english&#34;&gt;Good English&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://books.google.com/ngrams/&#34;&gt;Ngram Viewer&lt;/a&gt; is a useful tool that checks how frequent a certain word, name or expression (sequence of few words) is common in the English literature. It is a simple way to check correctness of words bending and preposition for non-native speakers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;print-own-good-looking-calendar-with-swedish-common-holidays-red-days&#34;&gt;Print own good looking calendar with Swedish common holidays &amp;ldquo;red days&amp;rdquo;?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.timeanddate.com/calendar/create.html?typ=2&amp;amp;fsz=2&amp;amp;hol=809500955&amp;amp;mphase=1&amp;amp;months=10&#34;&gt;Timeanddate&lt;/a&gt; provides free nice layouts if you do not mind their logo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;visualize-md-file-and-more-on-macosx&#34;&gt;Visualize &lt;code&gt;.md&lt;/code&gt; file and more on MacOSX&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/samuelmeuli/glance&#34;&gt;Glance&lt;/a&gt; (also available on the applestore)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pandoc.org/installing.html&#34;&gt;pandoc&lt;/a&gt; to easily turn&lt;code&gt;md&lt;/code&gt; files into &lt;code&gt;pdf&lt;/code&gt; files (actually, it turns almost anything to almost anything)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/Wandmalfarbe/pandoc-latex-template&#34;&gt;Eisvogel&lt;/a&gt; for a nice formatting of the output (command line: &lt;code&gt;pandock example.md -o example.pdf --template eisvogel --listingss&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;finding-subtle-bias-in-job-ads&#34;&gt;Finding subtle bias in job ads&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gender-decoder.katmatfield.com&#34;&gt;Gender Decoder&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>What is Cryptography?</title>
       <link>https://epagnin.github.io/posts/2022-01-20-crypto/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2022-01-20-crypto/</guid>
-      <description>What is Cryptography? Here&amp;rsquo;s a quick video explaining the magic you can do with cryptography.
-If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge. In order to have fruitful discussion, it is very important that you get an understanding of the general framework used in cryptography, how primitives are formalized and how to reason about security model, attackers and proofs.</description>
+      <description>&lt;h2 id=&#34;what-is-cryptography&#34;&gt;What is Cryptography?&lt;/h2&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a quick &lt;a href=&#34;https://www.youtube.com/watch?v=Yy_WsEe4Fgk&#34;&gt;video&lt;/a&gt; explaining the magic you can do with cryptography.&lt;/p&gt;&#xA;&lt;p&gt;If you are working with me, chances are that we stumble upon some cryptographic primitive, security proof, or privacy challenge.&#xA;In order to have fruitful discussion, it is &lt;em&gt;very&lt;/em&gt; important that you get an understanding of the general framework used in cryptography, how primitives are formalized and how to reason about security model, attackers and proofs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wondering what other researchers think?</title>
       <link>https://epagnin.github.io/posts/2021-07-24-mentoring/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2021-07-24-mentoring/</guid>
-      <description>Mentoring videos by the IACR community The International Association for Cryptologic Research (IACR) launched an initiative to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. In this series of videos you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic career.</description>
+      <description>&lt;h2 id=&#34;mentoring-videos-by-the-iacr-community&#34;&gt;Mentoring videos by the IACR community&lt;/h2&gt;&#xA;&lt;p&gt;The International Association for Cryptologic Research (&lt;a href=&#34;https://www.iacr.org&#34;&gt;IACR&lt;/a&gt;) launched an initiative to provide &lt;strong&gt;advice for researchers in early stages&lt;/strong&gt; (students and junior faculty) and &lt;strong&gt;women researchers in the area of cryptography&lt;/strong&gt;. In this &lt;a href=&#34;https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2&#34;&gt;series of videos&lt;/a&gt; you can listen to the answers a pool of community members gives to a wide range of questions, most of which you will stumble upon at a certain point in your academic career.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Working with me and at Chalmers</title>
       <link>https://epagnin.github.io/posts/2023-02-10-workingwithme/</link>
       <pubDate>Tue, 27 Apr 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2023-02-10-workingwithme/</guid>
-      <description>Meet me, and my research projects 🎬 I&amp;rsquo;m a Cryptographer, I&amp;rsquo;m paid to be paranoid
-🎬 Future-Oriented Research: “Enhancing Data Authentication”
-How does it feel to be a PhD student at Chalmers? 🎬 Interview to a first year PhD student</description>
+      <description>&lt;h1 id=&#34;meet-me-and-my-research-projects&#34;&gt;Meet me, and my research projects&lt;/h1&gt;&#xA;&lt;p&gt;&amp;#x1f3ac; &lt;a href=&#34;https://www.youtube.com/watch?v=brdDqLlMOSk&#34;&gt;I&amp;rsquo;m a Cryptographer, I&amp;rsquo;m paid to be paranoid&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f3ac;  &lt;a href=&#34;https://www.youtube.com/watch?v=F7A6mQx5OVc&amp;amp;list=PL5bkXrfFlZglHaLYy-VfDclNrCYrFm1Oz&amp;amp;index=3&#34;&gt;Future-Oriented Research: “Enhancing Data Authentication”&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-does-it-feel-to-be-a-phd-student-at-chalmers&#34;&gt;How does it feel to be a PhD student at Chalmers?&lt;/h1&gt;&#xA;&lt;p&gt;&amp;#x1f3ac; &lt;a href=&#34;https://www.youtube.com/watch?v=imGRprN-Ku8&#34;&gt;Interview to a first year PhD student&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What&#39;s the next deadline???</title>
       <link>https://epagnin.github.io/posts/2021-01-01-deadlines/</link>
       <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
-      
       <guid>https://epagnin.github.io/posts/2021-01-01-deadlines/</guid>
-      <description>Check out my selection of deadlines for conference on stuff I like to do research on (sporadically updated).</description>
+      <description>&lt;p&gt;Check out my &lt;a href=&#34;https://epagnin.github.io/deadlines&#34;&gt;selection of deadlines&lt;/a&gt; for conference on stuff I like to do research on (sporadically updated).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
