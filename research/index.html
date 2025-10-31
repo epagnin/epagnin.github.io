@@ -55,6 +55,13 @@
                         <span class="nav-item navbar-text mx-1">/</span>
                     
                 
+                    <a class="nav-item nav-link" href="/papers/" title="Publications">
+                        Publications
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
                     <a class="nav-item nav-link" href="/cryptoteam" title="TEAM">
                         TEAM
                     </a>
@@ -64,13 +71,6 @@
                 
                     <a class="nav-item nav-link" href="/teaching" title="Teaching">
                         Teaching
-                    </a>
-                    
-                        <span class="nav-item navbar-text mx-1">/</span>
-                    
-                
-                    <a class="nav-item nav-link" href="/cv/" title="CV">
-                        CV
                     </a>
                     
                         <span class="nav-item navbar-text mx-1">/</span>
@@ -88,9 +88,8 @@
 <hr>
 <div id="content">
 <div class="container">
-    <p>Here&rsquo;s a link to my <a href="http://localhost:1313/cv/">CV</a> and full list of <a href="/papers/">publications</a> with pointers to open access full-texts versions of my works and video recordings when available. Alternatively, visit <a href="http://dblp.uni-trier.de/pers/hd/p/Pagnin:Elena">dblp</a>, or <a href="https://scholar.google.it/citations?user=gsINRp8AAAAJ&amp;hl=en">GoogleScholar</a>.</p>
-<h1 id="the-research-i-like">The Research I Like</h1>
-<p>My research interests lie in the design of advanced public key cryptographic primitives and new cryptographic protocols, mainly for authentication or transparency.
+    <h1 id="the-research-i-like">The Research I Like</h1>
+<p>My research interests lie in the design of <strong>advanced public key</strong> cryptographic primitives and new cryptographic <strong>protocols</strong>, mainly for <strong>authentication</strong> or <strong>transparency</strong>.
 I am particularly fascinated by cryptographic applications of mathematical objects and new construction that may derive from it.</p>
 <!-- I am actively working on:
 **multi-key and homomorphic** cryptosystems,
@@ -98,7 +97,7 @@ I am particularly fascinated by cryptographic applications of mathematical objec
 private & compact digital **storage solutions**,
 **verifiable computation**, and **privacy-enhancing technologies**. 
 -->
-<p>Below is a visual overview of my lines of research where black (resp. blue) text refers to published papers (resp. work in progress/under submission). Icons identify collaborations with Industrial partners / grant-sponsored research.</p>
+<p>Below is a visual overview of my lines of research. Text in black (resp.<span style="color:gray; font-family:inherit; font-size:inherit; font-weight:normal; text-decoration:none; display:inline;">gray</span>) refers to published papers (resp.<span style="color:gray; font-family:inherit; font-size:inherit; font-weight:normal; text-decoration:none;">work in progress/under submission</span>). Icons identify collaborations with industrial partners, or grant-sponsored research.</p>
 <p><img src="/subway_map.svg" alt="My Image"></p>
 <h1 id="recent-and-ongoing-research-directions">Recent and Ongoing Research Directions:</h1>
 <ul>
@@ -115,7 +114,17 @@ private & compact digital **storage solutions**,
 </ul>
 <hr>
 <h1 id="research-projects">Research Projects</h1>
-<p><strong>VR</strong> starting grant on <strong>Progressive Verification of Cryptographic Schemes</strong> (4M SEK / 4 years)</p>
+<p><strong>VR</strong> cyber and information security project on <strong>Consistency Protocols for Transparency Technologies</strong> (5.9M SEK - start in 2026)</p>
+<blockquote>
+<p>A central problem in reliable systems is achieving <strong>consensus despite malfunctioning components</strong>. This problem, known as Byzantine fault-tolerant (BFT) agreement, is often formulated as a set of Lieutenants who should agree on an order from the Commander.
+<br>
+Existing solutions rely on either peer-to-peer direct and authenticated channels among all parties (a complete network graph), or broadcast (recently implemented as blockchains). This project explores a new setting for the BFT agreement problem: a star topology with the Commander being the central node. This setting poses unique challenges due to the absence of peer-to-peer channels among Lieutenants, broadcast channels, and guaranteed output delivery.
+<br>
+Specifically, this project investigates consistency protocols, namely epoch-based BFT agreement protocols in the star topology with a very large number of Byzantine Lieutenants and one malicious Commander. This setting models a centralized Public Key Infrastructure (PKI) that distribute users&rsquo; public keys in modern digital systems such as end-to-end encrypted messaging apps, and privacy-preserving location-based services.
+<br>
+This project defines and investigates <strong>evolving committee-based consistency protocols</strong>, a novel branch of consistency protocols for Transparency Logs (a generalization of a <strong>verifiable PKI</strong>). The goal is to prove security against a set of powerful and realistic adversaries using advanced cryptographic schemes and results from probability theory.</p>
+</blockquote>
+<p><strong>VR</strong> starting grant on <strong>Progressive Verification of Cryptographic Schemes</strong> (4M SEK - start in 2023)</p>
 <blockquote>
 <p>Computational devices are ever more present in our lives. As we shift towards smart­ cities, we will see an increased deployment of embedded devices to support ubiquitous payments, assisted driving, smart­-locks and much more. To ensure the safety of digitalized societies, devices that collect and process (sensitive) data need to do so in a secure and efficient way. This often involves verification mechanisms, e.g., to check the validity of digital signatures, certificates, credentials, but also to verify data and process integrity. Modern post-quantum secure schemes are not designed to run on resource constrained devices. The main obstacles are efficiency and storage.
 This project focuses on the <strong>design and study of progressive verification mechanisms</strong>. Unlike standard verification tech­niques that return a binary output (accept/reject) only at the very end of the execution, <em>progressive verification builds confidence on the validity of an instance step­-by-step</em>, and can early reject fallacious inputs. This frame­ work opens the possibility for verifiers that are computationally weak, with limited storage available, or running out of battery, to dynamically adjust their soundness (accuracy of the verification outcome) to their current performance.</p>
