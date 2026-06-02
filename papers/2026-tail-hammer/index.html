@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>How to reach me</title>
+  <title>Tail-Hammer: Optimized Statistics for Anonymous Committees and Applications</title>
   <meta name="description" content="My personal webpage (mostly academic stuff)">
   <meta name="author"      content="Elena Pagnin">
 
@@ -87,29 +87,26 @@
 </div>
 <hr>
 <div id="content">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
-    <p>My office is located in the <strong>EDIT Building</strong>, <strong>room 6482</strong>, on the <strong>Chalmers Johanneberg Campus</strong>.</p>
-<h2 id="on-campus">On Campus</h2>
-<p>Enter the building via the entrance closest to <a href="https://www.openstreetmap.org/search?query=Quarl%20Ankas%20V%C3%A4g%202"><strong>Maskingränd 2</strong></a> which looks like this:</p>
-<p><img src="/IMG_1083.JPG" alt="alt text"></p>
-<p>Once inside, you&rsquo;ll find yourself in a small <strong>glass lobby</strong>. Take the glass door to your <strong>left</strong>, after few upward steps you will see a large <strong>spiral staircase</strong> to your <strong>right</strong>. Take it to <strong>floor 6V</strong> (not <strong>6Ö</strong>).
-After passing through the glass-and-metal door, my office is the <strong>second door on the right</strong>.
-If you take the elevator, use the <strong>panel farthest from the entrance</strong> and select <strong>6</strong>. Exit through the doors <strong>opposite</strong> where you entered. Otherwise, you will arrive on the <strong>Ö side</strong> of the building and will need to go half a flight up or down.</p>
-<p>My PhD students sit in the office <strong>opposite mine</strong>; feel free to ask them if my door is closed.
-If you get lost (which is common), email me with your best guess of where you are, and someone will come find you.</p>
-<h2 id="from-göteborg-city">From Göteborg City</h2>
-<p>Take <strong>tram 6, 8</strong> (from Korsvägen), or <strong>tram 7, 10</strong> (from near the Central Station) toward <strong>Chalmers</strong> and get off at <strong>Chalmersplatsen</strong>.
-From there, walk uphill into the campus area, and aim at <strong>Quarl Anka’s Väg 2</strong>. The walk takes about <strong>5–7 minutes</strong>.</p>
-<p>For a shorter, flatter walk, you can take <strong>bus 61</strong> to <strong>Engdahlsgatan</strong>, or buses 60, 63 to Bergsprängaregatan.</p>
-<p><strong>Paying for Public Transportation</strong>:
-You can pay using the <strong>Västtrafik To Go</strong> app on your smartphone.
-Alternatively, tap a <strong>contactless card</strong> (Visa/Mastercard) on the card reader when boarding.<br>
-The system automatically charges the <strong>correct fare at the end of the day</strong>.
-Multiple taps within the <strong>90-minute ticket window</strong> are included at no extra cost.
-Cash is not accepted.</p>
-<h2 id="from-the-airport">From the Airport</h2>
-<p>The easiest option is the <strong>airport bus (Vy Flygbussarna)</strong>.
-Tickets can be bought <strong>online</strong> at <a href="https://www.flygbussarna.se">https://www.flygbussarna.se</a> or <strong>at the ticket counter inside the airport</strong>, near the exit. Buses run about <strong>every 20 minutes</strong>, and the trip to <strong>Korsvägen</strong> takes approximately <strong>25 minutes</strong>, from there you can take tram 6 or 8 to reach the campus.</p>
+    <h1>Tail-Hammer: Optimized Statistics for Anonymous Committees and Applications</h1>
+    <hr>
+    Authors: <i>B. David, L. Lavagnino, E. Pagnin, and P. Stankovski-Wagner</i> 
+    <br>
+    In: 15th International Conference on Security and Cryptography for Networks, 
+	2026
+	<br>
+	Full Text: 
+	<a href="https://eprint.iacr.org/2026/1101.pdf"><i class="fas fa-file"></i></a>
+	 
+    <hr>
+     <h3>Abstract</h3>
+    <p>Techniques to randomly select sets of anonymous parties are ubiquitous in efficient and adaptively secure consensus protocols, as well as in Multi-Party Computation in the YOSO model, where each round is executed by a different random anonymous committee. Anonymous committee selection aims at randomly selecting a set of n parties (the committee), where at most t parties are corrupted (except with negligible probability), drawing from a population of $N ≫ n$ parties with at most $T$ corrupted parties. Additionally, each party knows (and can prove) if they belong to the committee, but ignores other members’ identities.
+A very common and efficient instantiation of anonymous committee selection is to select parties according to a VRF output, this however, leads to committees of probabilistic size ($n$ behaves as a Binomial random variable). Despite wide adoption, only [7] (Blum et al., CCS23) provides an analysis of VRF-based probabilistic anonymous committee selection that estimates the size of committees. This analysis relies on lose bounds (Chernoff) and approximations (Poisson).
+In this work, we revisit Blum et al.’s estimates and derive accurate closed-form formulas (based on a tight Binomial approximation), as well as an efficient high-precision library called Tail-Hammer for computing exact parameters. Notably, Tail-Hammer identifies smaller committee sizes (approximately -25% on average) than [7] for the same security level, leading to improved efficiency in protocols relying on random committee selection, also when anonymity is not needed. Our analysis applies to committee selection techniques that employ unbiased (uniformly random), or bounded-bias randomness, to both synchronous and asynchronous communication settings, and it can account for inactive parties.
+As a new application, we present a verifiable consistent broadcast protocol that leverages quorums in anonymous committees to achieve efficiency without requiring threshold signatures.</p>
+<p><strong>Keywords:</strong>
+Privacy, Accountability, Universal Composability, Anonymous Credentials.</p>
 
 </div>
 

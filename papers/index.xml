@@ -6,8 +6,15 @@
     <description>Recent content in My Publications on Elena Pagnin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jul 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:00:00 +0000</lastBuildDate>
     <atom:link href="https://epagnin.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tail-Hammer: Optimized Statistics for Anonymous Committees and Applications</title>
+      <link>https://epagnin.github.io/papers/2026-tail-hammer/</link>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
+      <guid>https://epagnin.github.io/papers/2026-tail-hammer/</guid>
+      <description>&lt;p&gt;Techniques to randomly select sets of anonymous parties are ubiquitous in efficient and adaptively secure consensus protocols, as well as in Multi-Party Computation in the YOSO model, where each round is executed by a different random anonymous committee. Anonymous committee selection aims at randomly selecting a set of n parties (the committee), where at most t parties are corrupted (except with negligible probability), drawing from a population of $N ≫ n$ parties with at most $T$ corrupted parties. Additionally, each party knows (and can prove) if they belong to the committee, but ignores other members’ identities.&#xA;A very common and efficient instantiation of anonymous committee selection is to select parties according to a VRF output, this however, leads to committees of probabilistic size ($n$ behaves as a Binomial random variable). Despite wide adoption, only [7] (Blum et al., CCS23) provides an analysis of VRF-based probabilistic anonymous committee selection that estimates the size of committees. This analysis relies on lose bounds (Chernoff) and approximations (Poisson).&#xA;In this work, we revisit Blum et al.’s estimates and derive accurate closed-form formulas (based on a tight Binomial approximation), as well as an efficient high-precision library called Tail-Hammer for computing exact parameters. Notably, Tail-Hammer identifies smaller committee sizes (approximately -25% on average) than [7] for the same security level, leading to improved efficiency in protocols relying on random committee selection, also when anonymity is not needed. Our analysis applies to committee selection techniques that employ unbiased (uniformly random), or bounded-bias randomness, to both synchronous and asynchronous communication settings, and it can account for inactive parties.&#xA;As a new application, we present a verifiable consistent broadcast protocol that leverages quorums in anonymous committees to achieve efficiency without requiring threshold signatures.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Proofs of sequential communication delays from physical assumptions and their applications</title>
       <link>https://epagnin.github.io/papers/2025-scd/</link>

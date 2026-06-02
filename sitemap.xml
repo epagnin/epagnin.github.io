@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://epagnin.github.io/</loc>
+    <lastmod>2026-06-01T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/papers/</loc>
+    <lastmod>2026-06-01T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://epagnin.github.io/papers/2026-tail-hammer/</loc>
+    <lastmod>2026-06-01T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://epagnin.github.io/deadlines/cic4/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/old-deadlines/cic4/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epagnin.github.io/</loc>
+    <loc>https://epagnin.github.io/deadlines/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/old-deadlines/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://epagnin.github.io/papers/</loc>
-    <lastmod>2025-07-30T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://epagnin.github.io/papers/2025-scd/</loc>
     <lastmod>2025-07-30T10:00:00+00:00</lastmod>
@@ -438,7 +444,5 @@
     <loc>https://epagnin.github.io/teaching/</loc>
   </url><url>
     <loc>https://epagnin.github.io/cryptoteam/</loc>
-  </url><url>
-    <loc>https://epagnin.github.io/deadlines/</loc>
   </url>
 </urlset>
