@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.7571688"
-     inkscape:cx="423.97748"
-     inkscape:cy="327.23094"
+     inkscape:cx="446.74137"
+     inkscape:cy="316.98719"
      inkscape:window-width="2512"
      inkscape:window-height="1381"
      inkscape:window-x="54"
@@ -919,7 +919,7 @@
          x="55.088257"
          y="19.094126"
          id="tspan6-7-1-3"
-         dx="0 0 0 -2.839997e-08">[E<tspan
+         dx="0 0 0 0 0 -2.839997e-08">[EDJ<tspan
    style="font-weight:bold;font-size:3.88056px"
    id="tspan22-4">P</tspan>]</tspan></text><text
        xml:space="preserve"
@@ -1246,9 +1246,9 @@
        transform="translate(18.470067,-40.34609)"><tspan
          x="139.28638"
          y="108.88761"
-         id="tspan6"><tspan
+         id="tspan18"><tspan
            style="font-size:3.175px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';stroke-width:0.5"
-           id="tspan5">signer privacy</tspan></tspan></text><text
+           id="tspan16">signer privacy</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0.9;font-family:Monospace;-inkscape-font-specification:'Monospace, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:52.7364;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999"
        x="139.28638"
@@ -1257,9 +1257,9 @@
        transform="translate(-72.509985,-39.949505)"><tspan
          x="139.28638"
          y="108.88761"
-         id="tspan11"><tspan
+         id="tspan22"><tspan
            style="font-family:Sans;-inkscape-font-specification:'Sans Italic'"
-           id="tspan7">transparency</tspan></tspan></text><text
+           id="tspan20">transparency</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0.9;font-family:Monospace;-inkscape-font-specification:'Monospace, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:29.9033;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999"
        x="139.28638"
@@ -1268,9 +1268,9 @@
        transform="rotate(-90,158.58429,72.711061)"><tspan
          x="139.28638"
          y="108.88761"
-         id="tspan13"><tspan
+         id="tspan28"><tspan
            style="font-family:Sans;-inkscape-font-specification:'Sans Italic'"
-           id="tspan12">secure messaging</tspan></tspan></text><path
+           id="tspan24">secure messaging</tspan></tspan></text><path
        style="fill:#ffffff;fill-opacity:0.313458;stroke:#0044aa;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
        d="m 54.647035,35.259743 1.315503,1.315502 c 14.052867,0.139571 22.831451,0.0015 34.203069,0"
        id="path3"
@@ -1351,9 +1351,9 @@
        transform="translate(-28.84574,-44.816712)"><tspan
          x="139.28638"
          y="108.88761"
-         id="tspan15"><tspan
+         id="tspan37"><tspan
            style="font-style:normal;font-size:3.175px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';stroke-width:0.5"
-           id="tspan14">DIGITAL SIGNATURES</tspan></tspan></text><path
+           id="tspan32">DIGITAL SIGNATURES</tspan></tspan></text><path
        style="fill:#ffffff;fill-opacity:0.313458;stroke:#0044aa;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12-6-1)"
        d="m 24.496089,82.090323 1.3155,1.3155 c 14.05287,0.13957 22.447777,-0.06166 33.819417,-0.06266"
        id="path3-7-8-5"
